@@ -1,0 +1,122 @@
+//-Rentador By Perry-//
+prontera.gat,173,183,4	script	Rentador	478,{
+	mes "[Rentador]";
+	mes "Hola, Aqui puedes rentar Carros de Mercader, Alcones, Pecopecos, Dragones, & Gryphons.";
+	next;
+	switch(select("Carro de Mercader:Alcon:Crusader Peco:Knight peco:Lord Knight Pecopeco:Rune Dragon:Paladin Pecopeco:Royal Gryphon:Mechanic Armor"))
+	{
+		case 1:
+			if( (BaseClass == Job_Merchant || BaseJob == Job_SuperNovice) && checkcart() == 0 && getskilllv("MC_PUSHCART") > 0 )
+			{
+				setcart;
+				close;
+			}
+			else
+			{
+				mes "[Rentador]";
+				mes"Losiento " + strcharinfo(0) + ", Verifica que tengas los requerimientos.";
+				close;
+			}
+		case 2:
+			if( (Class == Job_Ranger || Class == Job_Ranger_T) && checkriding () )
+			{
+				mes "Losiento " + strcharinfo(0) + ", Verifica que tengas los requerimientos.";
+				close;
+			}
+			if( BaseJob != Job_Archer && BaseClass == Job_Archer && checkfalcon() == 0 && getskilllv("HT_FALCON") > 0 )
+			{
+				setfalcon;
+				close;
+			}
+			else
+			{
+				mes "[Rentador]";
+				mes "Losiento " + strcharinfo(0) + ", Verifica que tengas los requerimientos.";
+				close;
+			}
+		case 3:
+			if( (Class == Job_Crusader || Class == Job_Crusader_T) && checkriding() == 0 )
+			{
+				setriding;
+				close;
+			}
+			else
+			{
+				mes "[Rentador]";
+				mes "Losiento " + strcharinfo(0) + ", Verifica que tengas los requerimientos.";
+				close;
+			}
+		case 4:
+			if( (Class == Job_knight || Class == Job_Knight_T) && checkriding() == 0 )
+			{
+				setriding;
+				close;
+			}
+			else
+			{
+				mes "[Rentador]";
+				mes "Losiento " + strcharinfo(0) + ", Verifica que tengas los requerimientos.";
+				close;
+			}
+		case 5:
+			if( (Class == Job_Lord_Knight || Class == Job_Lord_Knight_T) && checkriding() == 0 )
+			{
+				setriding;
+				close;
+			}
+			else
+			{
+				mes "[Rentador]";
+				mes "Losiento " + strcharinfo(0) + ", Verifica que tengas los requerimientos.";
+				close;
+			}
+		case 6:
+			if( (Class == Job_Rune_Knight || Class == Job_Rune_Knight_T) && checkriding() == 0 )
+			{
+				setriding;
+				close;
+			}
+			else
+			{
+				mes "[Rentador]";
+				mes "Losiento " + strcharinfo(0) + ", Verifica que tengas los requerimientos.";
+				close;
+			}
+		case 7:
+			if( (Class == Job_Paladin || Class == Job_Paladin_T) && checkriding() == 0 )
+			{
+				setriding;
+				close;
+			}
+			else
+			{
+				mes "[Rentador]";
+				mes "Losiento " + strcharinfo(0) + ", Verifica que tengas los requerimientos.";
+				close;
+			}
+		case 8:
+			if( (Class == Job_Royal_Guard || Class == Job_Royal_Guard_T) && checkriding() == 0 )
+			{
+				setriding;
+				close;
+			}
+			else
+			{
+				mes "[Rentador]";
+				mes "Losiento " + strcharinfo(0) + ", Verifica que tengas los requerimientos.";
+				close;
+			}
+		case 9:
+			if( (Class == Job_Mechanic || Class == Job_Mechanic_T) && checkriding() == 0 )
+			{
+				setriding;
+				close;
+			}
+			else
+			{
+				mes "[Rentador]";
+				mes "Losiento " + strcharinfo(0) + ", Verifica que tengas los requerimientos.";
+				close;
+			}
+	}
+}

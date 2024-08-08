@@ -1,0 +1,3 @@
+Lo que esta en esta carpeta, es la vista del objeto ya colocado en el personaje
+
+una carpeta es para personaje femenino y la otra masculino, agregar objetos en ambas

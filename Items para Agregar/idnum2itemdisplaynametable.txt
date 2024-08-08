@@ -1,0 +1,5 @@
+Numero ID#Nombre#
+
+ejemplo:
+
+20188#Blue_Dragon_Wings#

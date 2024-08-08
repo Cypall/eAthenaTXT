@@ -1,0 +1,1068 @@
+02/16/2017 23:04:42 - Prueba1[2000002]: @item
+02/16/2017 23:04:46 - Prueba1[2000002]: @item 20201
+02/16/2017 23:07:19 - Prueba1[2000002]: @lvup 100
+02/16/2017 23:07:21 - Prueba1[2000002]: @lvup 100
+02/16/2017 23:07:21 - Prueba1[2000002]: @lvup 100
+02/16/2017 23:07:22 - Prueba1[2000002]: @lvup 100
+02/18/2017 00:05:17 - Prueba1[2000002]: @heal
+02/18/2017 00:11:39 - Prueba1[2000002]: @warp tha_t06
+02/18/2017 01:50:15 - Prueba1[2000002]: @joblvup max
+02/18/2017 01:50:20 - Prueba1[2000002]: @joblvup 8
+02/18/2017 01:50:24 - Prueba1[2000002]: @joblvup 1
+02/18/2017 01:50:45 - Prueba1[2000002]: @jobchange
+02/18/2017 01:51:14 - Prueba1[2000002]: @jobchange 12
+02/18/2017 14:12:22 - Prueba1[2000002]: @lvup 222
+08/14/2017 16:35:11 - Hola2[2000000]: @spawn poring
+08/14/2017 16:35:28 - Hola2[2000000]: @heal
+08/14/2017 16:36:08 - Hola2[2000000]: @warp prontera
+08/14/2017 21:33:23 - Hola2[2000000]: @alive
+08/14/2017 21:33:29 - Hola2[2000000]: @dye 2
+08/14/2017 21:33:33 - Hola2[2000000]: @dye 0
+08/14/2017 21:33:36 - Hola2[2000000]: @dye 0 1
+08/14/2017 21:33:39 - Hola2[2000000]: @dye 0 2
+08/14/2017 21:33:44 - Hola2[2000000]: @dye 0,2
+08/14/2017 21:33:47 - Hola2[2000000]: @dye 0,55
+08/14/2017 21:33:51 - Hola2[2000000]: @dye 0,12
+08/14/2017 21:36:20 - Hola2[2000000]: @lvup 9
+08/14/2017 21:36:34 - Hola2[2000000]: @joblvup 9
+08/14/2017 21:39:05 - Hola2[2000000]: @item apple
+08/14/2017 21:39:34 - Hola2[2000000]: @spawn poring
+08/14/2017 21:51:34 - Hola2[2000000]: @effect 22
+08/14/2017 21:51:40 - Hola2[2000000]: @effect 23
+08/14/2017 21:51:42 - Hola2[2000000]: @effect 24
+08/14/2017 21:51:44 - Hola2[2000000]: @effect 25
+08/14/2017 21:51:46 - Hola2[2000000]: @effect 26
+08/14/2017 21:51:49 - Hola2[2000000]: @effect 27
+08/14/2017 21:51:51 - Hola2[2000000]: @effect 28
+08/14/2017 21:51:53 - Hola2[2000000]: @effect 29
+08/14/2017 21:51:56 - Hola2[2000000]: @effect 20
+08/14/2017 21:51:59 - Hola2[2000000]: @effect 30
+08/14/2017 21:52:01 - Hola2[2000000]: @effect 31
+08/14/2017 21:52:03 - Hola2[2000000]: @effect 32
+08/14/2017 21:52:05 - Hola2[2000000]: @effect 33
+08/14/2017 21:52:09 - Hola2[2000000]: @effect 22
+08/14/2017 21:52:12 - Hola2[2000000]: @effect 34
+08/14/2017 21:52:14 - Hola2[2000000]: @effect 35
+08/14/2017 21:52:18 - Hola2[2000000]: @effect 36
+08/14/2017 21:52:22 - Hola2[2000000]: @effect 37
+08/14/2017 21:52:25 - Hola2[2000000]: @effect 38
+08/14/2017 21:52:27 - Hola2[2000000]: @effect 39
+08/14/2017 21:52:32 - Hola2[2000000]: @effect 40
+08/14/2017 21:52:36 - Hola2[2000000]: @job
+08/14/2017 21:53:03 - Hola2[2000000]: @job 4212
+08/14/2017 21:53:27 - Hola2[2000000]: @job 4211
+08/17/2017 14:48:42 - Hola2[2000000]: @item Yellow_Aura
+08/17/2017 14:52:17 - Hola2[2000000]: @speed 1
+08/17/2017 14:53:36 - Hola2[2000000]: @lvup 30
+08/17/2017 14:53:43 - Hola2[2000000]: @heal
+08/17/2017 14:53:53 - Hola2[2000000]: @joblvup 200
+08/17/2017 20:02:09 - Hola2[2000000]: @night
+08/17/2017 20:52:51 - Hola2[2000000]: @effect 486
+08/17/2017 20:53:08 - Hola2[2000000]: @effect 485
+08/17/2017 20:53:14 - Hola2[2000000]: @night
+08/17/2017 20:53:33 - Hola2[2000000]: @effect 240
+08/17/2017 20:53:37 - Hola2[2000000]: @effect 244
+08/17/2017 20:53:39 - Hola2[2000000]: @effect 244
+08/17/2017 20:53:51 - Hola2[2000000]: @effect 236
+08/17/2017 20:53:55 - Hola2[2000000]: @effect 261
+08/17/2017 20:54:04 - Hola2[2000000]: @effect 262
+08/17/2017 20:54:06 - Hola2[2000000]: @effect 263
+08/17/2017 20:54:16 - Hola2[2000000]: @effect 257
+08/17/2017 20:54:20 - Hola2[2000000]: @effect 276
+08/17/2017 20:56:15 - Hola2[2000000]: @reloadscript
+08/17/2017 20:56:25 - Hola2[2000000]: @effect 240
+08/17/2017 20:56:28 - Hola2[2000000]: @effect 240
+08/17/2017 20:56:28 - Hola2[2000000]: @effect 240
+08/17/2017 20:56:29 - Hola2[2000000]: @effect 240
+08/17/2017 20:56:29 - Hola2[2000000]: @effect 240
+08/17/2017 20:56:29 - Hola2[2000000]: @effect 240
+08/17/2017 20:56:30 - Hola2[2000000]: @effect 240
+08/17/2017 20:56:30 - Hola2[2000000]: @effect 240
+08/17/2017 20:56:30 - Hola2[2000000]: @effect 240
+08/17/2017 20:56:30 - Hola2[2000000]: @effect 240
+08/17/2017 20:56:31 - Hola2[2000000]: @effect 240
+08/17/2017 20:56:31 - Hola2[2000000]: @effect 240
+08/17/2017 20:56:31 - Hola2[2000000]: @effect 240
+08/17/2017 20:56:32 - Hola2[2000000]: @effect 240
+08/17/2017 20:56:32 - Hola2[2000000]: @effect 240
+08/17/2017 20:56:32 - Hola2[2000000]: @effect 240
+08/17/2017 20:56:32 - Hola2[2000000]: @effect 240
+08/17/2017 20:58:24 - Hola2[2000000]: @reloadscript
+08/17/2017 21:01:38 - Hola2[2000000]: @effect 254
+08/17/2017 21:01:50 - Hola2[2000000]: @effect 339
+08/17/2017 21:01:59 - Hola2[2000000]: @effect 400
+08/17/2017 21:10:45 - Hola2[2000000]: /kick Poring (1002)
+08/17/2017 21:10:56 - Hola2[2000000]: /kick Poring (1002)
+08/17/2017 21:10:59 - Hola2[2000000]: /kick Lunatic (1063)
+08/17/2017 21:11:04 - Hola2[2000000]: /kick Poring (1002)
+08/17/2017 21:11:24 - Hola2[2000000]: @allskills
+08/17/2017 21:17:29 - Hola2[2000000]: @item 1599
+08/17/2017 21:17:48 - Hola2[2000000]: @item 2199
+08/17/2017 21:18:09 - Hola2[2000000]: @item 2573
+08/17/2017 21:18:40 - Hola2[2000000]: @item 2576
+08/17/2017 21:19:04 - Hola2[2000000]: @item 2589
+08/17/2017 21:19:18 - Hola2[2000000]: @item 2904
+08/17/2017 21:20:11 - Hola2[2000000]: @item 5592
+08/17/2017 21:20:39 - Hola2[2000000]: @lvup 222
+08/17/2017 21:21:03 - Hola2[2000000]: @item 12622
+08/17/2017 21:27:58 - Tesla[2000005]: @job 4212
+08/17/2017 21:28:19 - Tesla[2000005]: @item 12622
+08/17/2017 21:28:58 - Tesla[2000005]: @item 2750
+08/17/2017 21:29:20 - Tesla[2000005]: @item 2438
+08/17/2017 21:29:59 - Tesla[2000005]: @item 2833
+08/17/2017 21:30:44 - Tesla[2000005]: @item 2784
+08/17/2017 21:31:21 - Tesla[2000005]: @item 12813
+08/17/2017 21:31:52 - Tesla[2000005]: @item 2916
+08/17/2017 21:32:11 - Tesla[2000005]: @lvup 200
+08/17/2017 21:32:35 - Tesla[2000005]: @heal
+08/17/2017 21:33:53 - Tesla[2000005]: @lvup 1196
+08/17/2017 21:34:00 - Tesla[2000005]: @item 1196
+08/17/2017 21:34:28 - Tesla[2000005]: @item 13289
+08/17/2017 21:34:49 - Tesla[2000005]: @item 13290
+08/17/2017 21:35:14 - Tesla[2000005]: @item 12475
+08/17/2017 21:37:36 - Tesla[2000005]: @allskills
+08/17/2017 21:37:49 - Tesla[2000005]: @allstats
+08/17/2017 21:38:29 - Tesla[2000005]: @item 13291
+08/17/2017 21:38:41 - Tesla[2000005]: @item 13291 100
+08/17/2017 21:39:03 - Tesla[2000005]: @item 13311
+08/17/2017 21:39:21 - Tesla[2000005]: @spawn poring
+08/17/2017 21:40:05 - Tesla[2000005]: @spawn poring
+08/17/2017 21:40:54 - Tesla[2000005]: @spawn poring
+08/17/2017 21:41:04 - Tesla[2000005]: @spawn poring
+08/20/2017 14:39:30 - Tesla[2000005]: @item Yellow_Aura
+08/20/2017 14:40:19 - Tesla[2000005]: @night
+08/20/2017 14:45:33 - Tesla[2000005]: @speed 120
+08/20/2017 14:45:40 - Tesla[2000005]: @speed 100
+08/20/2017 14:49:35 - Tesla[2000005]: @speed
+08/20/2017 14:49:38 - Tesla[2000005]: @speed 0
+08/25/2017 22:00:50 - Tesla[2000005]: @item Three_Demons_Sword
+08/25/2017 22:00:59 - Tesla[2000005]: @job
+08/25/2017 22:01:30 - Tesla[2000005]: @job 4073
+08/25/2017 22:03:03 - Tesla[2000005]: @item 1624 1
+08/25/2017 22:21:23 - Tesla[2000005]: @spawn poring
+08/25/2017 22:22:20 - Tesla[2000005]: @job
+08/25/2017 22:22:42 - Tesla[2000005]: @job 4066
+08/25/2017 22:23:01 - Tesla[2000005]: @job
+08/25/2017 22:23:17 - Tesla[2000005]: @job 4015
+08/25/2017 22:23:31 - Tesla[2000005]: @allskills
+11/16/2017 21:04:50 - Tesla[2000005]: @job
+11/16/2017 21:05:11 - Tesla[2000005]: @job 4073
+11/16/2017 21:13:35 - Tesla[2000005]: @reloadscript
+11/16/2017 21:22:06 - Tesla[2000005]: @reloadscript
+11/16/2017 21:23:03 - Tesla[2000005]: @job
+11/16/2017 21:23:17 - Tesla[2000005]: @job 4065
+11/16/2017 21:23:38 - Tesla[2000005]: @joblvl 100
+11/16/2017 21:24:12 - Tesla[2000005]: @allskills
+11/16/2017 21:26:39 - Tesla[2000005]: @item 678 19
+11/17/2017 11:43:12 - Tesla[2000005]: @job
+11/18/2017 15:28:12 - Prompt[2000005]: @WARP MORROC
+11/18/2017 15:28:17 - Prompt[2000005]: @WARP MOROCC
+11/18/2017 15:28:28 - Prompt[2000005]: @warp morocc
+11/18/2017 15:28:33 - Prompt[2000005]: @warp morroc
+12/08/2018 16:07:18 - Hippo[2000000]: @item yellow_aura
+12/08/2018 16:29:32 - Phill[2000006]: @item doppelganger_card
+12/08/2018 16:29:34 - Phill[2000006]: @item doppelganger_card
+12/08/2018 16:31:43 - Phill[2000006]: @warp prt_field02
+12/08/2018 16:31:45 - Winder[2000007]: @warp prt_field 02
+12/08/2018 16:31:47 - Phill[2000006]: @warp prt_field 02
+12/08/2018 16:31:51 - Winder[2000007]: @warp prt_field02
+12/08/2018 16:31:52 - Phill[2000006]: @warp prt_fild 02
+12/08/2018 16:31:56 - Phill[2000006]: @warp prt_fild02
+12/08/2018 16:32:01 - Phill[2000006]: @warp prt_fild02
+12/08/2018 16:32:10 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:32:12 - Phill[2000006]: @warp prt_fild02
+12/08/2018 16:49:30 - Phill[2000006]: @reloadscript
+12/08/2018 16:49:31 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:49:41 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:49:43 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:49:44 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:49:45 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:49:47 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:49:49 - Phill[2000006]: @warp prt_fild02
+12/08/2018 16:50:13 - Phill[2000006]: @warp prt_fild02
+12/08/2018 16:50:24 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:50:25 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:50:27 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:50:36 - Phill[2000006]: @reloadscript
+12/08/2018 16:50:37 - Phill[2000006]: @warp prt_fild02
+12/08/2018 16:50:38 - Phill[2000006]: @warp prt_fild02
+12/08/2018 16:51:41 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:51:44 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:51:45 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:51:52 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:51:55 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:51:56 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:51:58 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:51:59 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:52:00 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:52:05 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:52:07 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:52:10 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:52:11 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:52:12 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:52:16 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:52:18 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:52:19 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:52:23 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:52:24 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:52:26 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:52:27 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:52:38 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:52:48 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:52:50 - Winder[2000007]: @warp prt_fild02
+12/08/2018 16:53:35 - Winder[2000007]: @warp trdfild_02
+12/08/2018 16:53:41 - Phill[2000006]: @reloaditemdb
+12/08/2018 16:53:46 - Winder[2000007]: @warp trdfild_02
+12/08/2018 16:53:57 - Winder[2000007]: @warp trd
+12/08/2018 16:53:57 - Phill[2000006]: @warp prt_fild02
+12/08/2018 16:54:09 - Winder[2000007]: @warp trt_fild02
+12/08/2018 16:54:17 - Winder[2000007]: @warp trt_fild02
+12/08/2018 16:54:38 - Winder[2000007]: @warp trt_fild02
+12/08/2018 16:54:41 - Winder[2000007]: @warp trt_fild 02
+12/08/2018 16:54:48 - Winder[2000007]: @warp 
+12/08/2018 16:55:25 - Winder[2000007]: @warp trt_fild02
+12/08/2018 16:55:35 - Winder[2000007]: @warp trd_fild02
+12/08/2018 16:55:50 - Winder[2000007]: @warp trt_fild02
+12/08/2018 16:55:52 - Winder[2000007]: @warp trt_fild02
+12/15/2018 17:49:33 - Phill[2000006]: @spawn poring
+12/15/2018 17:50:13 - Phill[2000006]: @job
+12/15/2018 17:50:39 - Phill[2000006]: @job 2
+12/15/2018 17:50:59 - Phill[2000006]: @spawn poring
+12/15/2018 17:51:57 - Phill[2000006]: @spawn poring
+12/15/2018 17:51:58 - Phill[2000006]: @spawn poring
+12/15/2018 17:51:59 - Phill[2000006]: @spawn poring
+12/15/2018 17:51:59 - Phill[2000006]: @spawn poring
+12/15/2018 17:52:00 - Phill[2000006]: @spawn poring
+12/15/2018 17:52:00 - Phill[2000006]: @spawn poring
+12/15/2018 17:52:00 - Phill[2000006]: @spawn poring
+12/15/2018 17:52:01 - Phill[2000006]: @spawn poring
+12/15/2018 17:54:43 - Phill[2000006]: @warp pay_dun00
+12/15/2018 17:58:52 - Phill[2000006]: @warp pay_dun02
+12/15/2018 17:58:55 - Phill[2000006]: @warp pay_dun01
+12/15/2018 18:02:01 - Phill[2000006]: @job 9
+12/15/2018 18:02:32 - Phill[2000006]: @joblvup 49
+12/15/2018 18:03:47 - Phill[2000006]: @job 4001
+12/15/2018 18:03:59 - Phill[2000006]: @joblvup 9
+12/15/2018 18:04:18 - Phill[2000006]: @reset skills
+12/15/2018 18:05:01 - Phill[2000006]: @job 4055
+12/15/2018 18:05:38 - Phill[2000006]: @job 4061
+12/15/2018 18:07:30 - Phill[2000006]: @allskills
+12/15/2018 18:09:07 - Phill[2000006]: @lvup 40
+01/16/2019 19:54:36 - Prueba1[2000002]: @lvup 100
+01/16/2019 19:54:42 - Prueba1[2000002]: @lvup 1
+01/16/2019 19:54:47 - Prueba1[2000002]: @lvup 44
+01/16/2019 19:55:01 - Prueba1[2000002]: @joblvup 48
+01/16/2019 19:55:44 - Prueba1[2000002]: @job
+01/16/2019 19:56:11 - Prueba1[2000002]: @job 4013
+01/16/2019 19:59:54 - Prueba1[2000002]: @warp pay_dun00
+01/16/2019 20:02:25 - Prueba1[2000002]: @item doppelganger_Card
+01/16/2019 20:02:41 - Prueba1[2000002]: @warp pay_dun01
+01/16/2019 20:12:05 - Prueba1[2000002]: @item doppelganger_Card
+01/16/2019 20:12:42 - Prueba1[2000002]: @warp in_sphinx4
+01/16/2019 20:13:05 - Prueba1[2000002]: @item 678 20
+01/16/2019 20:14:05 - Prueba1[2000002]: @warp in_sphinx4
+01/16/2019 20:14:07 - Prueba1[2000002]: @warp in_sphinx4
+01/16/2019 20:14:11 - Prueba1[2000002]: @warp in_sphinx4
+01/16/2019 20:14:36 - Prueba1[2000002]: @warp in_sphinx4
+01/16/2019 20:14:40 - Prueba1[2000002]: @warp in_sphinx4
+01/16/2019 20:14:42 - Prueba1[2000002]: @warp in_sphinx4
+01/16/2019 20:15:41 - Prueba1[2000002]: @warp in_sphinx4
+01/16/2019 20:15:44 - Prueba1[2000002]: @warp in_sphinx4
+01/16/2019 20:15:49 - Prueba1[2000002]: @warp in_sphinx4
+01/16/2019 20:15:52 - Prueba1[2000002]: @warp in_sphinx4
+01/16/2019 20:16:03 - Prueba1[2000002]: @warp in_sphinx4
+01/16/2019 20:16:04 - Prueba1[2000002]: @warp in_sphinx4
+01/16/2019 20:16:05 - Prueba1[2000002]: @warp in_sphinx4
+01/16/2019 20:16:06 - Prueba1[2000002]: @warp in_sphinx4
+01/16/2019 20:16:17 - Prueba1[2000002]: @warp in_sphinx4
+01/16/2019 20:16:38 - Prueba1[2000002]: @item turtle_general_Card
+01/16/2019 20:16:40 - Prueba1[2000002]: @item turtle_general_Card
+01/16/2019 20:16:58 - Prueba1[2000002]: @item turtle_general_Card
+01/16/2019 20:17:00 - Prueba1[2000002]: @warp in_sphinx4
+01/16/2019 20:17:01 - Prueba1[2000002]: @warp in_sphinx4
+01/16/2019 20:17:29 - Prueba1[2000002]: @item 13035
+01/16/2019 20:17:30 - Prueba1[2000002]: @item 13035
+01/16/2019 20:17:46 - Prueba1[2000002]: @refine 2 +12
+01/16/2019 20:17:59 - Prueba1[2000002]: @refine 2 +12
+01/16/2019 20:18:53 - Prueba1[2000002]: @refine 2 +12
+01/25/2019 22:50:29 - Prueba1[2000002]: @item yellow_aura
+01/25/2019 22:51:17 - Prueba1[2000002]: @warp thor_v01
+02/23/2019 22:59:12 - test03[2000005]: @reloadscript
+02/23/2019 22:59:47 - test03[2000005]: @reloaditemdb
+02/23/2019 23:06:21 - test03[2000005]: @reloadscript
+02/27/2019 22:58:34 - test03[2000005]: @lvup 22
+02/27/2019 22:58:42 - test03[2000005]: @joblvup 22
+02/27/2019 22:59:14 - test03[2000005]: @joblvup 1
+02/27/2019 22:59:49 - test03[2000005]: @joblvup 4
+02/27/2019 22:59:51 - test03[2000005]: @joblvup 4
+02/27/2019 23:00:08 - test03[2000005]: @joblvup 10
+02/27/2019 23:00:57 - test03[2000005]: @joblvup 5
+02/27/2019 23:01:07 - test03[2000005]: @lvup 50
+02/27/2019 23:01:14 - test03[2000005]: @lvup 12
+02/27/2019 23:04:00 - test03[2000005]: @lvup 12
+02/27/2019 23:04:01 - test03[2000005]: @lvup 12
+02/27/2019 23:04:38 - test03[2000005]: @joblvup 3
+02/27/2019 23:05:31 - test03[2000005]: @item 607 20
+02/27/2019 23:07:59 - test03[2000005]: @item 607 20
+02/27/2019 23:07:59 - test03[2000005]: @item 607 20
+02/27/2019 23:09:46 - test03[2000005]: @item 607 20
+02/27/2019 23:16:11 - test03[2000005]: @joblvup 22
+02/28/2019 20:09:10 - Mazapan[2000005]: @item 534 5
+02/28/2019 20:14:53 - Mazapan[2000005]: @item 1404
+02/28/2019 20:15:08 - Mazapan[2000005]: @item 1405
+02/28/2019 20:15:26 - Mazapan[2000005]: @item doppelganger_card
+02/28/2019 20:15:37 - Mazapan[2000005]: @item doppelganger_card
+02/28/2019 20:15:45 - Mazapan[2000005]: @refine 2+10
+02/28/2019 20:18:27 - Mazapan[2000005]: @item 607 50
+02/28/2019 20:19:28 - Mazapan[2000005]: @item 607 50
+02/28/2019 20:19:29 - Mazapan[2000005]: @item 607 50
+02/28/2019 20:27:05 - Mazapan[2000005]: @item 607 50
+02/28/2019 20:32:24 - Mazapan[2000005]: @refine 2 10 Zavitad
+02/28/2019 20:34:54 - Mazapan[2000005]: @refine 2 10 #Zavitad
+02/28/2019 20:35:05 - Mazapan[2000005]: @refine 2 10 Zavitad
+02/28/2019 20:38:59 - Mazapan[2000005]: #refine 2 10
+02/28/2019 20:43:26 - Mazapan[2000005]: @refine 2 10 #Zavitad
+02/28/2019 20:44:21 - Mazapan[2000005]: #Joblvup Zavitad 2
+02/28/2019 20:44:28 - Mazapan[2000005]: #Joblvup Zavitad 2
+02/28/2019 20:44:41 - Mazapan[2000005]: #refine Zavitad 2 10
+02/28/2019 20:46:22 - Mazapan[2000005]: @joblvup 4
+02/28/2019 20:56:25 - Mazapan[2000005]: @item turtle_general_card
+02/28/2019 20:56:27 - Mazapan[2000005]: @item turtle_general_card
+02/28/2019 20:56:28 - Mazapan[2000005]: @item turtle_general_card
+02/28/2019 20:56:40 - Mazapan[2000005]: @item turtle_general_card
+02/28/2019 20:56:41 - Mazapan[2000005]: @item turtle_general_card
+02/28/2019 20:56:42 - Mazapan[2000005]: @item turtle_general_card
+02/28/2019 20:57:07 - Mazapan[2000005]: @item 607 20
+02/28/2019 20:57:08 - Mazapan[2000005]: @item 607 20
+02/28/2019 20:57:28 - Mazapan[2000005]: @item 607 20
+02/28/2019 20:57:30 - Mazapan[2000005]: @item 607 20
+02/28/2019 20:58:25 - Mazapan[2000005]: #slaveclone Zavitad Mazapan
+02/28/2019 20:59:00 - Mazapan[2000005]: @slaveclone Zavitad
+02/28/2019 21:00:01 - Mazapan[2000005]: @slaveclone Zavitad
+02/28/2019 21:00:02 - Mazapan[2000005]: @slaveclone Zavitad
+02/28/2019 21:00:03 - Mazapan[2000005]: @slaveclone Zavitad
+02/28/2019 21:00:05 - Mazapan[2000005]: #slaveclone Zavitad Mazapan
+02/28/2019 21:00:06 - Mazapan[2000005]: #slaveclone Zavitad Mazapan
+02/28/2019 21:00:07 - Mazapan[2000005]: #slaveclone Zavitad Mazapan
+02/28/2019 21:06:48 - Mazapan[2000005]: @raise
+02/28/2019 21:07:15 - Mazapan[2000005]: @pvpon
+02/28/2019 21:09:46 - Mazapan[2000005]: @raise
+02/28/2019 21:10:26 - Mazapan[2000005]: @killmonster
+03/01/2019 11:18:21 - Mazapan[2000005]: @pvpon
+03/01/2019 11:18:32 - Mazapan[2000005]: @raise
+03/01/2019 11:18:39 - Mazapan[2000005]: @killmonster
+03/01/2019 11:18:48 - Mazapan[2000005]: @pvpoff
+03/01/2019 11:24:28 - Mazapan[2000005]: @item 2424
+03/01/2019 11:24:53 - Mazapan[2000005]: @item 2528
+03/01/2019 11:25:00 - Mazapan[2000005]: @item 2528
+03/01/2019 11:25:02 - Mazapan[2000005]: @item 2424
+03/01/2019 11:25:37 - Mazapan[2000005]: @item 2647
+03/01/2019 11:25:44 - Mazapan[2000005]: @item 2658
+03/01/2019 11:25:45 - Mazapan[2000005]: @item 2658
+03/01/2019 11:26:10 - Mazapan[2000005]: @item ifrit_card
+03/01/2019 11:26:13 - Mazapan[2000005]: @item ifrit_card
+03/01/2019 11:27:15 - Mazapan[2000005]: @item 2124
+03/01/2019 11:27:25 - Mazapan[2000005]: @item thara_frog_card
+03/01/2019 11:38:24 - Mazapan[2000005]: @item thara_frog_card
+03/01/2019 11:38:47 - Mazapan[2000005]: @item 2104
+03/01/2019 11:56:55 - Mazapan[2000005]: @item 607 100
+03/01/2019 12:09:02 - Mazapan[2000005]: @item 607
+03/01/2019 12:09:05 - Mazapan[2000005]: @item 607 20
+03/01/2019 12:12:28 - Mazapan[2000005]: @item 4381 1
+03/01/2019 12:12:40 - Mazapan[2000005]: @item 4381 1
+03/01/2019 12:15:37 - Mazapan[2000005]: @item 607 20
+03/01/2019 12:17:49 - Mazapan[2000005]: @item 607 20
+03/01/2019 12:18:30 - Mazapan[2000005]: @item 2342
+03/01/2019 12:18:48 - Mazapan[2000005]: @item tao_gunka_card
+03/01/2019 12:20:24 - Mazapan[2000005]: @item 607 20
+03/01/2019 12:20:24 - Mazapan[2000005]: @item 607 20
+03/01/2019 12:21:44 - Mazapan[2000005]: @item 607 20
+03/01/2019 12:24:19 - Mazapan[2000005]: @item deviling_card
+03/01/2019 12:25:11 - Mazapan[2000005]: @pvpon
+03/01/2019 12:25:43 - Mazapan[2000005]: @item 2311
+03/01/2019 12:25:50 - Mazapan[2000005]: @item ghostring_card
+03/01/2019 12:27:39 - Mazapan[2000005]: @alive
+03/01/2019 12:27:44 - Mazapan[2000005]: @alive Zavitad
+03/01/2019 12:27:49 - Mazapan[2000005]: @alive
+03/01/2019 12:34:40 - Chippos[2000005]: @spawn poring
+03/01/2019 12:34:47 - Chippos[2000005]: @spawn poring
+03/01/2019 12:35:11 - Chippos[2000005]: @spawn poring
+03/01/2019 12:35:11 - Chippos[2000005]: @spawn poring
+03/01/2019 12:35:12 - Chippos[2000005]: @spawn poring
+03/01/2019 12:35:54 - Chippos[2000005]: @item 1418
+03/01/2019 12:37:06 - Chippos[2000005]: @item 2707
+03/01/2019 12:37:40 - Chippos[2000005]: #lvup Archer 20
+03/01/2019 12:37:41 - Chippos[2000005]: #lvup Archer 20
+03/01/2019 12:37:56 - Chippos[2000005]: #joblvup Archer 20
+03/01/2019 12:38:05 - Chippos[2000005]: #joblvup Archer 16
+03/01/2019 12:54:13 - Chippos[2000005]: @item 13176
+03/01/2019 12:54:29 - Chippos[2000005]: @item 13177
+03/01/2019 12:54:34 - Chippos[2000005]: @item 13178
+03/01/2019 12:54:43 - Chippos[2000005]: @item 13179
+03/01/2019 12:54:48 - Chippos[2000005]: @item 13175
+03/01/2019 12:54:51 - Chippos[2000005]: @item 13174
+03/01/2019 12:55:30 - Chippos[2000005]: @item 13100
+03/01/2019 12:55:36 - Chippos[2000005]: @item 13101
+03/01/2019 12:55:41 - Chippos[2000005]: @item 13102
+03/01/2019 12:55:43 - Chippos[2000005]: @item 13103
+03/01/2019 12:55:47 - Chippos[2000005]: @item 13104
+03/01/2019 12:55:51 - Chippos[2000005]: @item 13105
+03/01/2019 12:55:53 - Chippos[2000005]: @item 13106
+03/01/2019 12:55:55 - Chippos[2000005]: @item 13107
+03/01/2019 12:56:18 - Chippos[2000005]: @item 13108
+03/01/2019 12:56:24 - Chippos[2000005]: @item 13109
+03/01/2019 12:56:41 - Chippos[2000005]: @item 13110
+03/01/2019 12:56:51 - Chippos[2000005]: @item 13111
+03/01/2019 12:56:52 - Chippos[2000005]: @item 13112
+03/01/2019 12:56:58 - Chippos[2000005]: @item 13113
+03/01/2019 12:57:00 - Chippos[2000005]: @item 13114
+03/01/2019 12:57:09 - Chippos[2000005]: @item 13115
+03/01/2019 12:57:10 - Chippos[2000005]: @item 13116
+03/01/2019 12:57:21 - Chippos[2000005]: @item 13150
+03/01/2019 12:57:43 - Chippos[2000005]: @item doppelganger_Card
+03/01/2019 12:58:00 - Chippos[2000005]: @refine 2 10
+03/01/2019 12:58:25 - Chippos[2000005]: @item 1702
+03/01/2019 12:58:33 - Chippos[2000005]: @item doppelganger_Card
+03/01/2019 12:58:54 - Chippos[2000005]: #refine Archer 2 10
+03/01/2019 13:00:00 - Chippos[2000005]: @item 12151
+03/01/2019 13:00:23 - Chippos[2000005]: @item 12383
+03/01/2019 13:01:05 - Chippos[2000005]: @item 13200
+03/01/2019 13:01:22 - Chippos[2000005]: @item 13200 200
+03/01/2019 13:09:31 - Chippos[2000005]: @spawn poring
+03/01/2019 13:10:28 - Chippos[2000005]: @item 13152
+03/01/2019 13:10:49 - Chippos[2000005]: @item 13153
+03/01/2019 13:10:52 - Chippos[2000005]: @item 13154
+03/01/2019 13:10:54 - Chippos[2000005]: @item 13155
+03/01/2019 13:11:13 - Chippos[2000005]: @item 13156
+03/01/2019 13:11:15 - Chippos[2000005]: @item 13157
+03/01/2019 13:11:17 - Chippos[2000005]: @item 13158
+03/01/2019 13:11:20 - Chippos[2000005]: @item 13159
+03/01/2019 13:11:27 - Chippos[2000005]: @item 13160
+03/01/2019 13:11:38 - Chippos[2000005]: @item 13161
+03/01/2019 13:11:53 - Chippos[2000005]: @item doppelganger_Card
+03/01/2019 13:12:05 - Chippos[2000005]: #lvup Archer 20
+03/01/2019 13:12:06 - Chippos[2000005]: #lvup Archer 20
+03/01/2019 13:12:07 - Chippos[2000005]: #lvup Archer 20
+03/01/2019 13:12:09 - Chippos[2000005]: #joblvup Archer 16
+03/01/2019 13:12:13 - Chippos[2000005]: #joblvup Archer 3
+03/01/2019 13:12:16 - Chippos[2000005]: #joblvup Archer 20
+03/01/2019 13:12:20 - Chippos[2000005]: #joblvup Archer 10
+03/01/2019 13:13:06 - Chippos[2000005]: #joblvup Archer 10
+03/01/2019 13:13:06 - Chippos[2000005]: #joblvup Archer 10
+03/01/2019 13:13:07 - Chippos[2000005]: #joblvup Archer 10
+03/01/2019 13:13:07 - Chippos[2000005]: #joblvup Archer 10
+03/01/2019 13:13:08 - Chippos[2000005]: #joblvup Archer 10
+03/01/2019 13:13:08 - Chippos[2000005]: #joblvup Archer 10
+03/01/2019 13:13:15 - Chippos[2000005]: #joblvup Archer 8
+03/01/2019 13:13:18 - Chippos[2000005]: #joblvup Archer 10
+03/01/2019 13:13:20 - Chippos[2000005]: #joblvup Archer 10
+03/01/2019 13:13:22 - Chippos[2000005]: #joblvup Archer 10
+03/01/2019 13:13:25 - Chippos[2000005]: #lvup Archer 20
+03/01/2019 13:13:26 - Chippos[2000005]: #lvup Archer 20
+03/01/2019 13:13:26 - Chippos[2000005]: #lvup Archer 20
+03/01/2019 13:13:27 - Chippos[2000005]: #lvup Archer 20
+03/01/2019 13:13:27 - Chippos[2000005]: #lvup Archer 20
+03/01/2019 13:13:30 - Chippos[2000005]: #lvup Archer 20
+03/01/2019 13:19:06 - Chippos[2000005]: @spawn poring
+03/01/2019 13:24:07 - Chippos[2000005]: @lvup 40
+03/01/2019 13:26:25 - Chippos[2000005]: @item 13200 500
+03/01/2019 13:28:15 - Chippos[2000005]: @item turtle_general_card
+03/01/2019 13:28:16 - Chippos[2000005]: @item turtle_general_card
+03/01/2019 13:28:38 - Chippos[2000005]: @item turtle_general_card
+03/01/2019 13:28:39 - Chippos[2000005]: @item turtle_general_card
+03/01/2019 13:28:40 - Chippos[2000005]: @item turtle_general_card
+03/01/2019 13:29:16 - Chippos[2000005]: @item 4403
+03/01/2019 13:30:25 - Chippos[2000005]: @lvup 60
+03/01/2019 13:32:45 - Chippos[2000005]: @item 4121
+03/01/2019 13:34:51 - Chippos[2000005]: @item 6124
+03/01/2019 13:37:50 - Patata[2000005]: @spawn poring
+03/01/2019 13:38:00 - Patata[2000005]: @spawn poring
+03/01/2019 13:38:46 - Patata[2000005]: @lvup 40
+03/01/2019 13:38:55 - Patata[2000005]: @joblvup 49
+03/01/2019 13:39:19 - Patata[2000005]: #lvup Mayonesa 40
+03/01/2019 13:39:33 - Patata[2000005]: #joblvup Mayonesa 49
+03/01/2019 13:41:01 - Patata[2000005]: #joblvup Mayonesa 49
+03/01/2019 13:41:06 - Patata[2000005]: #lvup Mayonesa 20
+03/01/2019 13:41:11 - Patata[2000005]: @joblvup 49
+03/01/2019 13:41:17 - Patata[2000005]: @lvup 20
+03/01/2019 13:42:16 - Patata[2000005]: @spawn poring
+03/01/2019 13:42:17 - Patata[2000005]: @spawn poring
+03/01/2019 13:42:55 - Patata[2000005]: @lvup 20
+03/01/2019 13:42:56 - Patata[2000005]: @lvup 20
+03/01/2019 13:43:00 - Patata[2000005]: @joblvup 49
+03/01/2019 13:43:03 - Patata[2000005]: #joblvup Mayonesa 49
+03/01/2019 13:43:07 - Patata[2000005]: #lvup Mayonesa 20
+03/01/2019 13:43:07 - Patata[2000005]: #lvup Mayonesa 20
+03/01/2019 13:52:01 - Patata[2000005]: @item 7136 20
+03/01/2019 13:54:17 - Patata[2000005]: @item 7135 20
+03/01/2019 13:55:06 - Patata[2000005]: #lvup Mayonesa 25
+03/01/2019 13:55:09 - Patata[2000005]: #lvup Mayonesa 20
+03/01/2019 13:55:21 - Patata[2000005]: #joblvup Mayonesa 20
+03/01/2019 13:56:28 - Patata[2000005]: @item 5141
+03/01/2019 13:56:43 - Patata[2000005]: @item 4403
+03/01/2019 14:18:41 - Patata[2000005]: @lvup 20
+03/01/2019 14:19:39 - Patata[2000005]: @lvup 20
+03/01/2019 14:20:22 - Patata[2000005]: @item 7135 50
+03/01/2019 14:20:44 - Patata[2000005]: @item 7136 50
+03/01/2019 14:21:33 - Patata[2000005]: @item 1602
+03/01/2019 14:23:18 - Patata[2000005]: #refine Mayonesa 2 10
+03/01/2019 14:28:14 - Mauz[2000005]: @spawn poring
+03/01/2019 14:28:22 - Mauz[2000005]: @spawn poring
+03/01/2019 14:28:51 - Mauz[2000005]: @lvup 50
+03/01/2019 14:29:03 - Mauz[2000005]: @joblvup 49
+03/01/2019 14:31:26 - Mauz[2000005]: #lvup Agua 40
+03/01/2019 14:31:35 - Mauz[2000005]: #joblvup Agua 49
+03/01/2019 14:32:06 - Mauz[2000005]: @joblvup 49
+03/01/2019 14:33:29 - Mauz[2000005]: @spawn poring
+03/01/2019 14:33:46 - Mauz[2000005]: @lvup 50
+03/01/2019 14:33:48 - Mauz[2000005]: @joblvup 49
+03/01/2019 14:34:42 - Mauz[2000005]: #joblvup Agua 49
+03/01/2019 14:34:58 - Mauz[2000005]: #lvup Agua 40
+03/01/2019 14:35:09 - Mauz[2000005]: @joblvup 49
+03/01/2019 14:36:03 - Mauz[2000005]: @spawn poring
+03/01/2019 14:36:29 - Mauz[2000005]: @item 1405
+03/01/2019 14:36:38 - Mauz[2000005]: @refine 2 19
+03/01/2019 14:37:01 - Mauz[2000005]: #joblvup Agua 49
+03/01/2019 14:37:09 - Mauz[2000005]: #lvup Agua 40
+03/01/2019 14:39:29 - Mauz[2000005]: #joblvup Agua 49
+03/01/2019 14:39:44 - Mauz[2000005]: @spawn poring
+03/01/2019 14:39:51 - Mauz[2000005]: @spawn poring
+03/01/2019 14:40:06 - Mauz[2000005]: @spawn poring
+03/01/2019 14:40:23 - Mauz[2000005]: @spawn poring
+03/01/2019 14:40:36 - Mauz[2000005]: @spawn poring
+03/01/2019 14:47:04 - Mauz[2000005]: @item 13035
+03/01/2019 14:48:34 - Mauz[2000005]: #lvup Agua 20
+03/01/2019 14:49:20 - Mauz[2000005]: @monster Mastering
+03/01/2019 14:49:36 - Mauz[2000005]: @monster ferus
+03/01/2019 14:50:17 - Mauz[2000005]: @killmonster
+03/01/2019 14:50:26 - Mauz[2000005]: @monster ferus
+03/01/2019 14:50:27 - Mauz[2000005]: @killmonster
+03/01/2019 14:51:01 - Mauz[2000005]: @item doppelganger_card
+03/01/2019 14:51:26 - Mauz[2000005]: @spawn poporing
+03/01/2019 14:51:53 - Mauz[2000005]: @joblvup 49
+03/01/2019 14:52:49 - Mauz[2000005]: @lvup 40
+03/01/2019 14:53:40 - Mauz[2000005]: #joblvup Agua 49
+03/01/2019 14:53:51 - Mauz[2000005]: #lvup Agua 49
+03/01/2019 14:57:37 - Mauz[2000005]: @joblvup 49
+03/01/2019 14:58:38 - Mauz[2000005]: @spawn poring
+03/01/2019 14:58:44 - Mauz[2000005]: @spawn poring
+03/01/2019 14:59:14 - Mauz[2000005]: @spawn poring
+03/01/2019 14:59:31 - Mauz[2000005]: @lvup 20
+03/01/2019 14:59:49 - Mauz[2000005]: @spawn poring
+03/01/2019 15:00:22 - Mauz[2000005]: @joblvup 49
+03/01/2019 15:00:37 - Mauz[2000005]: #joblvup Agua 49
+03/01/2019 15:00:45 - Mauz[2000005]: @spawn poring
+03/01/2019 15:01:27 - Mauz[2000005]: @monster ferus
+03/01/2019 15:01:55 - Mauz[2000005]: @item 678 20
+03/01/2019 15:02:54 - Mauz[2000005]: @monster ferus
+03/01/2019 15:03:19 - Mauz[2000005]: @item sandstorm
+03/01/2019 15:06:15 - Mauz[2000005]: @monster ferus
+03/01/2019 15:08:15 - Mauz[2000005]: @lvup 4
+03/01/2019 15:08:21 - Mauz[2000005]: @lvup 20
+03/01/2019 15:08:24 - Mauz[2000005]: @lvup 50
+03/01/2019 15:09:23 - Mauz[2000005]: #lvup Zavitad 8
+03/01/2019 15:09:26 - Mauz[2000005]: #lvup Zavitad 20
+03/01/2019 15:09:27 - Mauz[2000005]: #lvup Zavitad 20
+03/01/2019 15:09:28 - Mauz[2000005]: #lvup Zavitad 20
+03/01/2019 15:09:31 - Mauz[2000005]: #lvup Zavitad 20
+03/01/2019 15:10:52 - Mauz[2000005]: @monster ferus
+03/01/2019 15:11:17 - Mauz[2000005]: @monster ferus
+03/01/2019 15:11:36 - Mauz[2000005]: @item turtle_general_card
+03/01/2019 15:11:40 - Mauz[2000005]: @item turtle_general_card
+03/01/2019 15:11:40 - Mauz[2000005]: @item turtle_general_card
+03/01/2019 15:11:58 - Mauz[2000005]: @monster ferus
+03/01/2019 15:12:57 - Mauz[2000005]: @monster ferus
+03/01/2019 15:13:15 - Mauz[2000005]: @monster ferus
+03/01/2019 15:51:09 - Mauz[2000005]: @monster ferus
+03/01/2019 15:52:34 - Mauz[2000005]: @monster ferus
+03/01/2019 15:52:45 - Mauz[2000005]: @monster ferus
+03/01/2019 15:52:56 - Mauz[2000005]: @monster ferus
+03/01/2019 16:51:52 - Mauz[2000005]: @lvup 50
+03/01/2019 16:52:54 - Mauz[2000005]: @monster ferus
+03/01/2019 16:55:12 - Mauz[2000005]: @monster turtle
+03/01/2019 16:55:17 - Mauz[2000005]: @monster turtle_general_card
+03/01/2019 16:55:38 - Mauz[2000005]: @monster turtle_general
+03/01/2019 16:57:44 - Mauz[2000005]: @monster turtle_general
+03/01/2019 17:03:16 - Mauz[2000005]: @item 2658
+03/01/2019 17:03:24 - Mauz[2000005]: @item ifrit_card
+03/01/2019 17:06:48 - Mauz[2000005]: @reloaditemdb
+03/01/2019 17:07:23 - Mauz[2000005]: @monster turtle_general
+03/01/2019 17:09:57 - Mauz[2000005]: @item 4263
+03/01/2019 17:13:12 - Mauz[2000005]: @monster ferus
+03/01/2019 17:14:57 - Perry[2000005]: @spawn poring
+03/01/2019 17:16:00 - Perry[2000005]: @joblvup 49
+03/01/2019 17:16:08 - Perry[2000005]: @lvup 50
+03/01/2019 17:17:05 - Perry[2000005]: @joblvup 49
+03/01/2019 17:22:37 - Perry[2000005]: @spawn poring
+03/01/2019 17:23:04 - Perry[2000005]: @lvup 50
+03/01/2019 17:23:06 - Perry[2000005]: @joblvup 49
+03/01/2019 17:24:32 - Perry[2000005]: @joblvup 49
+03/01/2019 17:24:35 - Perry[2000005]: @joblvup 49
+03/01/2019 17:24:39 - Perry[2000005]: @lvup 50
+03/01/2019 17:24:42 - Perry[2000005]: @lvup 50
+03/01/2019 17:25:40 - Perry[2000005]: @item 1913
+03/01/2019 17:26:02 - Perry[2000005]: @item arrow 20
+03/01/2019 17:31:59 - Perry[2000005]: @hide
+03/01/2019 17:32:12 - Perry[2000005]: @monster green_ferus
+03/01/2019 17:32:17 - Perry[2000005]: @monster ferus
+03/01/2019 17:32:35 - Perry[2000005]: #hide Archer
+03/01/2019 17:32:41 - Perry[2000005]: #hide Archer
+03/01/2019 17:34:01 - Perry[2000005]: @monster morocc
+03/01/2019 17:34:47 - Perry[2000005]: @killmonster
+03/01/2019 17:35:13 - Perry[2000005]: @joblvup 70
+03/01/2019 17:36:47 - Mazapan[2000005]: @spawn poring
+03/01/2019 17:37:29 - Mazapan[2000005]: @lvup 22
+03/01/2019 17:37:32 - Mazapan[2000005]: @lvup 20
+03/01/2019 17:37:33 - Mazapan[2000005]: @lvup 20
+03/01/2019 17:37:34 - Mazapan[2000005]: @lvup 20
+03/01/2019 17:39:02 - Mazapan[2000005]: @spawn poring
+03/01/2019 17:39:42 - Mazapan[2000005]: #lvup Dino 9
+03/01/2019 17:39:51 - Mazapan[2000005]: #lvup Dino 70
+03/01/2019 17:39:55 - Mazapan[2000005]: #lvup Dino 70
+03/01/2019 17:39:57 - Mazapan[2000005]: #lvup Dino 30
+03/01/2019 17:40:15 - Mazapan[2000005]: #joblvup Dino 2
+03/01/2019 17:40:18 - Mazapan[2000005]: #joblvup Dino 20
+03/01/2019 17:40:20 - Mazapan[2000005]: #joblvup Dino 20
+03/01/2019 17:40:21 - Mazapan[2000005]: #joblvup Dino 20
+03/01/2019 17:40:24 - Mazapan[2000005]: #joblvup Dino 20
+03/01/2019 17:40:27 - Mazapan[2000005]: #joblvup Dino 1
+03/01/2019 17:40:30 - Mazapan[2000005]: #joblvup Dino 1
+03/01/2019 17:42:39 - Mazapan[2000005]: @item 1505
+03/01/2019 17:42:53 - Mazapan[2000005]: @refine 2 10
+03/01/2019 17:43:09 - Mazapan[2000005]: #zeny Dino 1000000
+03/01/2019 17:43:42 - Mazapan[2000005]: @item 4202
+03/01/2019 17:43:44 - Mazapan[2000005]: @item 4202
+03/01/2019 17:44:04 - Mazapan[2000005]: @item hidra_card
+03/01/2019 17:44:21 - Mazapan[2000005]: @item hydra_card
+03/01/2019 17:44:34 - Mazapan[2000005]: @item turtle_general_card
+03/01/2019 17:44:59 - Mazapan[2000005]: @item turtle_general_card
+03/01/2019 17:46:29 - Mazapan[2000005]: @item 13301
+03/01/2019 17:46:38 - Mazapan[2000005]: @item 13301
+03/01/2019 17:46:58 - Mazapan[2000005]: @monster poring
+03/01/2019 17:51:36 - Mazapan[2000005]: @monster raidric
+03/01/2019 17:51:39 - Mazapan[2000005]: @monster raydric
+03/01/2019 17:52:06 - Mazapan[2000005]: @monster raydric_card
+03/01/2019 17:52:09 - Mazapan[2000005]: @monster raydric
+03/01/2019 17:52:41 - Mazapan[2000005]: @item 2528
+03/01/2019 17:53:12 - Mazapan[2000005]: @item 2104
+03/01/2019 17:54:12 - Mazapan[2000005]: @item 4128
+03/01/2019 17:54:48 - Mazapan[2000005]: @pvpon
+03/01/2019 17:57:08 - Mazapan[2000005]: @joblvup 2
+03/01/2019 17:58:47 - Mazapan[2000005]: @joblvup 2
+03/01/2019 17:59:54 - Mazapan[2000005]: @item 607 50
+03/01/2019 17:59:59 - Mazapan[2000005]: @item 607 50
+03/01/2019 18:05:10 - Mazapan[2000005]: @alive
+03/01/2019 18:06:06 - Mazapan[2000005]: @item 9043
+03/01/2019 18:06:17 - Mazapan[2000005]: @item 5141
+03/01/2019 18:07:05 - Mazapan[2000005]: @item 4365
+03/01/2019 18:08:01 - Mazapan[2000005]: @item 4143
+03/01/2019 18:08:36 - Mazapan[2000005]: @item 2678
+03/01/2019 18:08:40 - Mazapan[2000005]: @item 2678
+03/01/2019 18:09:25 - Mazapan[2000005]: @item 4137
+03/01/2019 18:10:06 - Mazapan[2000005]: @item 4359
+03/01/2019 18:11:38 - Mazapan[2000005]: @item 4131
+03/01/2019 18:11:57 - Mazapan[2000005]: @monster raydric
+03/01/2019 18:12:06 - Mazapan[2000005]: @monster raydric
+03/01/2019 18:12:13 - Mazapan[2000005]: @monster raydric
+03/01/2019 18:12:21 - Mazapan[2000005]: @monster raydric
+03/01/2019 18:12:30 - Mazapan[2000005]: @monster raydric
+03/01/2019 18:12:38 - Mazapan[2000005]: @monster raydric
+03/01/2019 18:12:45 - Mazapan[2000005]: @monster raydric
+03/01/2019 18:12:59 - Mazapan[2000005]: @monster raydric
+03/01/2019 18:13:10 - Mazapan[2000005]: @monster raydric
+03/01/2019 18:13:16 - Mazapan[2000005]: @monster raydric
+03/01/2019 18:13:25 - Mazapan[2000005]: @monster raydric
+03/01/2019 18:13:35 - Mazapan[2000005]: @monster raydric
+03/01/2019 18:13:43 - Mazapan[2000005]: @monster raydric
+03/01/2019 18:13:54 - Mazapan[2000005]: @monster raydric
+03/01/2019 18:14:08 - Mazapan[2000005]: @monster raydric
+03/01/2019 18:14:16 - Mazapan[2000005]: @monster raydric
+03/01/2019 18:14:25 - Mazapan[2000005]: @monster raydric
+03/01/2019 18:14:47 - Mazapan[2000005]: @item 4133
+03/01/2019 18:15:07 - Mazapan[2000005]: @item 2528
+03/01/2019 18:18:03 - Mazapan[2000005]: #slaveclone Zavitad Zavitad
+03/01/2019 18:18:04 - Mazapan[2000005]: #slaveclone Zavitad Zavitad
+03/01/2019 18:18:05 - Mazapan[2000005]: #slaveclone Zavitad Zavitad
+03/01/2019 18:18:05 - Mazapan[2000005]: #slaveclone Zavitad Zavitad
+03/01/2019 18:18:06 - Mazapan[2000005]: #slaveclone Zavitad Zavitad
+03/01/2019 18:18:07 - Mazapan[2000005]: #slaveclone Zavitad Zavitad
+03/01/2019 18:18:07 - Mazapan[2000005]: #slaveclone Zavitad Zavitad
+03/01/2019 18:18:08 - Mazapan[2000005]: #slaveclone Zavitad Zavitad
+03/01/2019 18:18:09 - Mazapan[2000005]: #slaveclone Zavitad Zavitad
+03/01/2019 18:18:10 - Mazapan[2000005]: #slaveclone Zavitad Zavitad
+03/01/2019 18:18:10 - Mazapan[2000005]: #slaveclone Zavitad Zavitad
+03/01/2019 18:18:11 - Mazapan[2000005]: #slaveclone Zavitad Zavitad
+03/01/2019 18:18:12 - Mazapan[2000005]: #slaveclone Zavitad Zavitad
+03/01/2019 18:18:13 - Mazapan[2000005]: #slaveclone Zavitad Zavitad
+03/01/2019 18:18:13 - Mazapan[2000005]: #slaveclone Zavitad Zavitad
+03/01/2019 18:18:31 - Mazapan[2000005]: @slaveclone Mazapan
+03/01/2019 18:18:32 - Mazapan[2000005]: @slaveclone Mazapan
+03/01/2019 18:18:32 - Mazapan[2000005]: @slaveclone Mazapan
+03/01/2019 18:18:33 - Mazapan[2000005]: @slaveclone Mazapan
+03/01/2019 18:18:34 - Mazapan[2000005]: @slaveclone Mazapan
+03/01/2019 18:18:34 - Mazapan[2000005]: @slaveclone Mazapan
+03/01/2019 18:18:35 - Mazapan[2000005]: @slaveclone Mazapan
+03/01/2019 18:18:36 - Mazapan[2000005]: @slaveclone Mazapan
+03/01/2019 18:18:36 - Mazapan[2000005]: @slaveclone Mazapan
+03/01/2019 18:18:37 - Mazapan[2000005]: @slaveclone Mazapan
+03/01/2019 18:18:38 - Mazapan[2000005]: @slaveclone Mazapan
+03/01/2019 18:18:38 - Mazapan[2000005]: @slaveclone Mazapan
+03/01/2019 18:18:39 - Mazapan[2000005]: @slaveclone Mazapan
+03/01/2019 18:18:40 - Mazapan[2000005]: @slaveclone Mazapan
+03/01/2019 18:18:40 - Mazapan[2000005]: @slaveclone Mazapan
+03/01/2019 18:20:35 - Mazapan[2000005]: @night
+03/01/2019 18:21:04 - Mazapan[2000005]: @agitstart
+03/01/2019 18:25:35 - Mazapan[2000005]: @item 714
+03/01/2019 18:30:50 - Mazapan[2000005]: @killmonster
+03/01/2019 18:33:01 - Mazapan[2000005]: @item 12020
+03/01/2019 18:34:07 - Mazapan[2000005]: @slaveclone Zavitad
+03/01/2019 18:34:21 - Mazapan[2000005]: @slaveclone Zavitad
+03/01/2019 18:34:21 - Mazapan[2000005]: @slaveclone Zavitad
+03/01/2019 18:34:22 - Mazapan[2000005]: @slaveclone Zavitad
+03/01/2019 18:34:22 - Mazapan[2000005]: @slaveclone Zavitad
+03/01/2019 18:34:22 - Mazapan[2000005]: @slaveclone Zavitad
+03/01/2019 18:34:23 - Mazapan[2000005]: @slaveclone Zavitad
+03/01/2019 18:34:23 - Mazapan[2000005]: @slaveclone Zavitad
+03/01/2019 18:34:23 - Mazapan[2000005]: @slaveclone Zavitad
+03/01/2019 18:34:23 - Mazapan[2000005]: @slaveclone Zavitad
+03/01/2019 18:34:23 - Mazapan[2000005]: @slaveclone Zavitad
+03/01/2019 18:34:24 - Mazapan[2000005]: @slaveclone Zavitad
+03/01/2019 18:34:24 - Mazapan[2000005]: @slaveclone Zavitad
+03/01/2019 18:34:24 - Mazapan[2000005]: @slaveclone Zavitad
+03/01/2019 18:34:24 - Mazapan[2000005]: @slaveclone Zavitad
+03/01/2019 18:34:25 - Mazapan[2000005]: @slaveclone Zavitad
+03/01/2019 18:34:25 - Mazapan[2000005]: @slaveclone Zavitad
+03/01/2019 18:34:25 - Mazapan[2000005]: @slaveclone Zavitad
+03/01/2019 18:34:25 - Mazapan[2000005]: @slaveclone Zavitad
+03/01/2019 18:34:26 - Mazapan[2000005]: @slaveclone Zavitad
+03/01/2019 18:34:26 - Mazapan[2000005]: @slaveclone Zavitad
+03/01/2019 18:35:48 - Mazapan[2000005]: @slaveclone Mazapan
+03/01/2019 18:35:48 - Mazapan[2000005]: @slaveclone Mazapan
+03/01/2019 18:35:48 - Mazapan[2000005]: @slaveclone Mazapan
+03/01/2019 18:35:49 - Mazapan[2000005]: @slaveclone Mazapan
+03/01/2019 18:35:49 - Mazapan[2000005]: @slaveclone Mazapan
+03/01/2019 18:35:49 - Mazapan[2000005]: @slaveclone Mazapan
+03/01/2019 18:35:49 - Mazapan[2000005]: @slaveclone Mazapan
+03/01/2019 18:35:49 - Mazapan[2000005]: @slaveclone Mazapan
+03/01/2019 18:35:50 - Mazapan[2000005]: @slaveclone Mazapan
+03/01/2019 18:35:50 - Mazapan[2000005]: @slaveclone Mazapan
+03/01/2019 18:35:50 - Mazapan[2000005]: @slaveclone Mazapan
+03/01/2019 18:35:50 - Mazapan[2000005]: @slaveclone Mazapan
+03/01/2019 18:35:50 - Mazapan[2000005]: @slaveclone Mazapan
+03/01/2019 18:38:40 - Alembert[2000005]: @spawn poring
+03/01/2019 18:39:10 - Alembert[2000005]: @joblvup 49
+03/01/2019 18:39:14 - Alembert[2000005]: @lvup 40
+03/01/2019 18:39:37 - Alembert[2000005]: @joblvup 49
+03/01/2019 18:39:54 - Alembert[2000005]: @spawn poring
+03/01/2019 18:40:10 - Alembert[2000005]: @joblvup 49
+03/01/2019 18:40:12 - Alembert[2000005]: @lvup 40
+03/01/2019 18:40:32 - Alembert[2000005]: @lvup 40
+03/01/2019 18:40:33 - Alembert[2000005]: @lvup 40
+03/01/2019 18:40:33 - Alembert[2000005]: @lvup 40
+03/01/2019 18:40:36 - Alembert[2000005]: @lvup 4
+03/01/2019 18:40:38 - Alembert[2000005]: @lvup 20
+03/01/2019 18:40:43 - Alembert[2000005]: @lvup 98
+03/01/2019 18:40:53 - Alembert[2000005]: @joblvup 49
+03/01/2019 18:40:54 - Alembert[2000005]: @joblvup 49
+03/01/2019 18:41:08 - Alembert[2000005]: #lvup Archer 4
+03/01/2019 18:41:12 - Alembert[2000005]: #lvup Archer 55
+03/01/2019 18:41:50 - Alembert[2000005]: @item sandstorm 2
+03/01/2019 18:41:58 - Alembert[2000005]: @refine 2 10
+03/01/2019 18:42:05 - Alembert[2000005]: @refine 2 10
+03/01/2019 18:42:10 - Alembert[2000005]: @refine 2 10
+03/01/2019 18:42:22 - Alembert[2000005]: @item hydra_card
+03/01/2019 18:42:22 - Alembert[2000005]: @item hydra_card
+03/01/2019 18:42:30 - Alembert[2000005]: @item turtle_general_card
+03/01/2019 18:42:32 - Alembert[2000005]: @item turtle_general_card
+03/01/2019 18:42:33 - Alembert[2000005]: @item turtle_general_card
+03/01/2019 18:42:34 - Alembert[2000005]: @item turtle_general_card
+03/01/2019 18:43:11 - Alembert[2000005]: @item 4085
+03/01/2019 18:43:18 - Alembert[2000005]: @item 4085
+03/01/2019 18:44:00 - Alembert[2000005]: @item 2311
+03/01/2019 18:44:16 - Alembert[2000005]: @item ghostring_card
+03/01/2019 18:44:45 - Alembert[2000005]: @item 4131
+03/01/2019 18:44:56 - Alembert[2000005]: @item 2424
+03/01/2019 18:45:11 - Alembert[2000005]: @item 4131
+03/01/2019 18:45:50 - Alembert[2000005]: @item 2528
+03/01/2019 18:46:05 - Alembert[2000005]: @item 4133
+03/01/2019 18:46:28 - Alembert[2000005]: @item 2658
+03/01/2019 18:46:34 - Alembert[2000005]: @item ifrit_card
+03/01/2019 18:50:25 - Alembert[2000005]: @item 607 100
+03/01/2019 18:50:43 - Alembert[2000005]: @item 607 100
+03/01/2019 18:50:53 - Alembert[2000005]: @item 12020 20
+03/01/2019 18:50:59 - Alembert[2000005]: @spawn poring
+03/01/2019 18:54:19 - Mauz[2000005]: #slaveclone Archer Mauz
+03/01/2019 18:55:11 - test03[2000005]: #slaveclone Archer test03
+03/01/2019 18:55:40 - Alembert[2000005]: #slaveclone Archer Alembert
+03/01/2019 18:55:56 - Alembert[2000005]: @slaveclone Archer
+03/01/2019 18:55:56 - Alembert[2000005]: @slaveclone Archer
+03/01/2019 18:57:07 - Alembert[2000005]: @item 678 20
+03/02/2019 13:34:45 - Alembert[2000005]: @item hydra_card
+03/02/2019 13:34:45 - Alembert[2000005]: @item hydra_card
+03/02/2019 13:34:54 - Alembert[2000005]: @item turtle_general_card
+03/02/2019 13:34:55 - Alembert[2000005]: @item turtle_general_card
+03/02/2019 13:35:00 - Alembert[2000005]: @item sandstorm
+03/02/2019 13:35:31 - Alembert[2000005]: @refine 2 10
+03/02/2019 13:36:20 - Alembert[2000005]: @item 678 20
+03/14/2019 20:07:13 - Alembert[2000005]: @monster pharon
+03/14/2019 20:07:24 - Alembert[2000005]: @monster pheroni
+03/14/2019 20:07:30 - Alembert[2000005]: @monster hydra
+03/14/2019 20:07:49 - Alembert[2000005]: @monster dracula
+03/14/2019 20:08:34 - Alembert[2000005]: @monster doppelganger
+03/14/2019 20:09:23 - Alembert[2000005]: @monster phenomena
+03/14/2019 20:09:49 - Alembert[2000005]: @monster osiris
+03/14/2019 20:10:40 - Alembert[2000005]: @monster amonra
+03/14/2019 20:10:44 - Alembert[2000005]: @monster amon_ra
+03/14/2019 20:11:55 - Alembert[2000005]: @monster drake
+03/14/2019 20:15:21 - Alembert[2000005]: @monster baphometh
+03/14/2019 20:15:23 - Alembert[2000005]: @monster baphomet
+03/14/2019 20:17:12 - Alembert[2000005]: @monster katrinn
+03/14/2019 20:22:30 - Alembert[2000005]: @zeny 2000
+05/26/2019 18:33:47 - Alembert[2000005]: @monster turtle
+05/26/2019 18:34:17 - Alembert[2000005]: @agitstart
+06/09/2019 00:55:04 - Kawaii[2000005]: @lvup 29
+06/09/2019 00:55:10 - Kawaii[2000005]: @joblvup 9
+06/09/2019 00:55:31 - Kawaii[2000005]: @joblvup 49
+06/09/2019 00:56:02 - Kawaii[2000005]: @lvup 29
+06/09/2019 00:56:05 - Kawaii[2000005]: @joblvup 49
+06/09/2019 00:56:32 - Kawaii[2000005]: @joblvup 9
+06/09/2019 00:56:34 - Kawaii[2000005]: @lvup 29
+06/09/2019 00:56:54 - Kawaii[2000005]: @lvup 29
+06/09/2019 00:56:57 - Kawaii[2000005]: @joblvup 49
+06/09/2019 00:57:21 - Kawaii[2000005]: @joblvup 49
+06/09/2019 00:57:25 - Kawaii[2000005]: @joblvup 49
+06/09/2019 01:00:09 - Kawaii[2000005]: @lvup 29
+06/09/2019 01:00:10 - Kawaii[2000005]: @lvup 29
+06/09/2019 01:00:11 - Kawaii[2000005]: @lvup 29
+06/09/2019 01:00:21 - Kawaii[2000005]: @joblvup 49
+06/11/2019 17:58:36 - Kawaii[2000005]: @lvup 100
+06/11/2019 18:00:18 - Kawaii[2000005]: @lvup 22
+06/11/2019 18:00:26 - Kawaii[2000005]: @joblvup 50
+06/11/2019 18:01:29 - Kawaii[2000005]: @joblvup 9
+06/11/2019 18:12:53 - Kawaii[2000005]: @reset
+06/11/2019 18:21:50 - Kawaii[2000005]: @gat
+06/11/2019 18:22:00 - Kawaii[2000005]: @reset skill
+06/16/2019 20:16:29 - Alembert[2000005]: @item turtle_general_card
+06/16/2019 20:16:32 - Alembert[2000005]: @spawn turtle_general
+06/16/2019 20:17:12 - Alembert[2000005]: @spawn turtle_general
+06/16/2019 20:17:48 - Alembert[2000005]: @reset
+06/16/2019 20:20:19 - Alembert[2000005]: @item 13035
+06/16/2019 20:20:20 - Alembert[2000005]: @item 13035
+06/16/2019 20:20:29 - Alembert[2000005]: @refine 2 10
+06/16/2019 20:20:34 - Alembert[2000005]: @refine 2 10
+06/16/2019 20:21:07 - Alembert[2000005]: @item 4276 10
+06/16/2019 20:25:57 - Alembert[2000005]: @item 4121 10
+06/16/2019 20:26:52 - Alembert[2000005]: @evilclone
+06/16/2019 20:27:00 - Alembert[2000005]: @evilclone Alembert
+06/16/2019 20:27:37 - Alembert[2000005]: @pvpon
+06/16/2019 20:29:12 - Alembert[2000005]: @item yellow_aura
+06/16/2019 20:37:23 - Alembert[2000005]: @pvpoff
+06/16/2019 20:37:47 - Alembert[2000005]: @lvup Paratest 20
+06/16/2019 20:37:57 - Alembert[2000005]: #lvup Paratest  20
+06/16/2019 20:38:11 - Alembert[2000005]: #joblvup Paratest  49
+06/16/2019 20:40:51 - Alembert[2000005]: #joblvup Paratest  49
+06/16/2019 20:41:24 - Alembert[2000005]: #joblvup Paratest  49
+06/16/2019 20:41:26 - Alembert[2000005]: #joblvup Paratest  49
+06/16/2019 20:42:04 - Alembert[2000005]: #lvup Paratest  49
+06/16/2019 20:42:05 - Alembert[2000005]: @pvpoff
+06/16/2019 20:42:09 - Alembert[2000005]: #lvup Paratest  49
+06/16/2019 20:42:11 - Alembert[2000005]: #lvup Paratest  49
+06/16/2019 20:43:43 - Alembert[2000005]: #lvup Paratest  49
+06/16/2019 20:43:47 - Alembert[2000005]: #lvup Paratest  30
+06/16/2019 20:43:54 - Alembert[2000005]: #lvup Paratest  5
+06/16/2019 20:45:32 - Alembert[2000005]: @item 2124
+06/16/2019 20:47:01 - Alembert[2000005]: @item thara_frog_card
+06/16/2019 20:47:39 - Alembert[2000005]: @item 1405
+06/16/2019 20:48:06 - Alembert[2000005]: #refine Paratest 2 10
+06/16/2019 20:48:25 - Alembert[2000005]: @item hydra_card
+06/16/2019 20:48:27 - Alembert[2000005]: @item hydra_card
+06/17/2019 20:43:45 - Alembert[2000005]: @item 2311
+06/17/2019 20:43:56 - Alembert[2000005]: @item 4342
+06/17/2019 20:44:26 - Alembert[2000005]: @item turtle_general_card
+06/17/2019 20:44:31 - Alembert[2000005]: @spawn turtle_general
+06/17/2019 20:44:47 - Alembert[2000005]: @item 678 10
+06/17/2019 20:45:29 - Alembert[2000005]: @evilclone Alembert
+06/17/2019 20:45:37 - Alembert[2000005]: @pvpon
+06/17/2019 20:45:59 - Alembert[2000005]: @pvpon
+06/17/2019 20:46:35 - Alembert[2000005]: @slaveclone Alembert
+06/17/2019 20:46:59 - Alembert[2000005]: @slaveclone Alembert
+06/17/2019 20:47:10 - Alembert[2000005]: @pvpoff
+06/17/2019 20:47:13 - Alembert[2000005]: @pvpon
+06/20/2019 21:42:36 - Alembert[2000005]: @PVPON
+06/20/2019 21:49:50 - Alembert[2000005]: @item 2317 1
+06/20/2019 21:49:58 - Alembert[2000005]: @item tao_gunka_card
+06/21/2019 19:49:40 - Alembert[2000005]: @pvpon
+06/25/2019 21:41:19 - Mazapan[2000005]: @spawn turtle_general
+06/25/2019 21:41:43 - Mazapan[2000005]: @spawn turtle_general
+06/25/2019 21:41:55 - Mazapan[2000005]: @lvup 45
+06/25/2019 21:42:34 - Mazapan[2000005]: @lvup 45
+06/25/2019 21:42:37 - Mazapan[2000005]: @spawn turtle_general
+06/25/2019 21:42:47 - Mazapan[2000005]: @spawn turtle_general
+06/25/2019 21:43:05 - Mazapan[2000005]: @spawn turtle_general
+06/25/2019 21:44:05 - Mauz[2000005]: @spawn turtle_general
+06/25/2019 21:45:16 - Patata[2000005]: @spawn turtle_general
+06/27/2019 22:03:19 - Alembert[2000005]: @item doppelganger_card
+06/27/2019 22:16:45 - Alembert[2000005]: @item 4367
+06/27/2019 22:16:54 - Alembert[2000005]: @item 4368
+06/27/2019 22:17:24 - Alembert[2000005]: @item 4366
+06/27/2019 22:17:26 - Alembert[2000005]: @item 4365
+06/27/2019 22:23:46 - Alembert[2000005]: @pvpon
+06/28/2019 16:11:01 - Alembert[2000005]: @item 2541
+06/28/2019 19:35:27 - Mauz[2000005]: @hide
+06/28/2019 19:38:31 - Mauz[2000005]: @killmonster
+06/28/2019 19:38:33 - Mauz[2000005]: @killmonster
+06/28/2019 19:38:33 - Mauz[2000005]: @killmonster
+10/23/2019 18:59:03 - Mazapan[2000005]: @item turtle_general_card
+10/23/2019 18:59:05 - Mazapan[2000005]: @spawn turtle_general
+10/23/2019 19:01:19 - Mazapan[2000005]: @spawn turtle_general
+10/23/2019 19:01:48 - Mazapan[2000005]: @spawn turtle_general
+10/23/2019 19:11:37 - Alembert[2000005]: @agitstart
+10/23/2019 19:16:07 - Alembert[2000005]: @item 678 2
+10/23/2019 19:17:53 - Alembert[2000005]: @item 678 2
+10/23/2019 19:17:54 - Alembert[2000005]: @item 678 2
+10/23/2019 19:21:43 - Alembert[2000005]: @item 678 2
+10/23/2019 19:22:36 - Alembert[2000005]: @agitend
+11/10/2019 19:32:07 - Cochiloco[2000005]: @item yellow_aura
+11/10/2019 19:33:17 - Cochiloco[2000005]: @item yellow_aura
+11/10/2019 19:45:40 - Cochiloco[2000005]: @item 716 20
+11/10/2019 19:50:03 - Cochiloco[2000005]: @item 1702
+11/10/2019 19:50:15 - Cochiloco[2000005]: @refine 2 11
+11/10/2019 19:50:26 - Cochiloco[2000005]: @item doppelganger_card
+11/10/2019 19:53:00 - Cochiloco[2000005]: @item 1752 500
+11/10/2019 19:54:11 - Cochiloco[2000005]: @item arrow 200
+11/10/2019 19:56:10 - Cochiloco[2000005]: @item sandstorm 2
+11/10/2019 19:56:54 - Cochiloco[2000005]: #refine maus 2 10
+11/10/2019 19:57:11 - Cochiloco[2000005]: #refine maus 2 10
+11/10/2019 19:57:18 - Cochiloco[2000005]: @item doppelganger_card
+11/10/2019 19:58:19 - Cochiloco[2000005]: @item 678 20
+11/10/2019 20:01:11 - Cochiloco[2000005]: @item arrow 400
+11/10/2019 20:08:36 - test03[2000005]: @item 2124 1
+11/10/2019 20:09:30 - test03[2000005]: @item thara_frog_Card
+11/10/2019 20:09:48 - test03[2000005]: @item pike
+11/10/2019 20:10:02 - test03[2000005]: @item 1408
+11/10/2019 20:10:13 - test03[2000005]: @refine 2 10
+11/10/2019 20:10:31 - test03[2000005]: @item doppelganger_Card
+11/10/2019 20:10:50 - test03[2000005]: @item turtle_general_card
+11/10/2019 20:10:50 - test03[2000005]: @item turtle_general_card
+11/10/2019 20:10:51 - test03[2000005]: @item turtle_general_card
+11/10/2019 20:18:15 - test03[2000005]: @item 607 1
+11/10/2019 20:18:19 - test03[2000005]: @item 607 99
+11/10/2019 20:22:18 - test03[2000005]: @pvpon
+11/10/2019 20:23:06 - test03[2000005]: @item 2658
+11/10/2019 20:23:17 - test03[2000005]: @item ifrit_card
+11/10/2019 20:23:38 - test03[2000005]: @item ring_of_flame_lord
+11/10/2019 20:24:12 - test03[2000005]: @item 2528
+11/10/2019 20:24:33 - test03[2000005]: @item 2424
+11/10/2019 20:25:04 - test03[2000005]: @item deviling_card
+11/10/2019 20:32:05 - Alembert[2000005]: @item ring_of_flame_lord
+11/10/2019 20:34:17 - Alembert[2000005]: @item 678 10
+11/10/2019 20:37:07 - Alembert[2000005]: @alive
+11/10/2019 20:37:10 - Alembert[2000005]: @alive
+04/08/2020 04:16:54 - Alembert[2000005]: @spawn turtle_general
+04/08/2020 04:18:11 - Alembert[2000005]: @repairall
+08/08/2020 01:44:43 - Mazapan[2000005]: @spawn turtle_general
+08/08/2020 01:45:06 - Mazapan[2000005]: @spawn turtle_general
+08/08/2020 01:45:41 - Mazapan[2000005]: @spawn poring
+08/08/2020 01:47:05 - Alembert[2000005]: @spawn turtle_general
+08/08/2020 01:47:53 - Alembert[2000005]: @spawn turtle_general
+01/18/2021 16:15:42 - Azael[2000008]: @job
+01/18/2021 16:15:53 - Azael[2000008]: @job 4073
+01/18/2021 16:16:32 - Azael[2000008]: @lvup 20
+01/18/2021 16:16:33 - Azael[2000008]: @lvup 20
+01/18/2021 16:16:34 - Azael[2000008]: @lvup 20
+01/18/2021 16:16:35 - Azael[2000008]: @lvup 20
+01/18/2021 16:16:35 - Azael[2000008]: @lvup 20
+01/18/2021 16:16:36 - Azael[2000008]: @lvup 20
+01/18/2021 16:16:36 - Azael[2000008]: @lvup 20
+01/18/2021 16:16:36 - Azael[2000008]: @lvup 20
+01/18/2021 16:16:37 - Azael[2000008]: @lvup 20
+01/18/2021 16:16:37 - Azael[2000008]: @lvup 20
+01/18/2021 16:16:37 - Azael[2000008]: @lvup 20
+01/18/2021 16:16:37 - Azael[2000008]: @lvup 20
+01/18/2021 16:16:37 - Azael[2000008]: @lvup 20
+01/18/2021 16:16:38 - Azael[2000008]: @lvup 20
+01/18/2021 16:16:59 - Azael[2000008]: @job 99
+01/18/2021 16:18:16 - Azael[2000008]: @jlvl 99
+01/18/2021 16:18:22 - Azael[2000008]: @jlvl 20
+01/18/2021 16:18:51 - Azael[2000008]: @jlvl 99
+01/18/2021 16:19:19 - Azael[2000008]: @joblevel 20
+01/18/2021 16:20:11 - Azael[2000008]: @job up 99
+01/18/2021 16:20:27 - Azael[2000008]: @jlvl 20
+01/18/2021 16:20:33 - Azael[2000008]: @allskills
+01/18/2021 16:20:38 - Azael[2000008]: @allstat
+01/18/2021 16:20:44 - Azael[2000008]: @allstat +2000
+01/18/2021 16:20:48 - Azael[2000008]: @allstat +2000
+01/18/2021 16:20:49 - Azael[2000008]: @allstat +2000
+01/18/2021 16:20:50 - Azael[2000008]: @allstat +2000
+01/18/2021 16:20:50 - Azael[2000008]: @allstat +2000
+01/18/2021 16:21:51 - Azael[2000008]: @speed 0
+01/18/2021 16:26:56 - Azael[2000008]: @item 607 100
+01/18/2021 16:27:46 - Azael[2000008]: @item ifrit
+01/18/2021 16:28:17 - Azael[2000008]: @monster ifrit
+01/18/2021 16:29:04 - Azael[2000008]: @allskills
+01/18/2021 16:29:08 - Azael[2000008]: @reset
+01/18/2021 16:29:12 - Azael[2000008]: @allskills
+01/18/2021 16:30:55 - Azael[2000008]: @monster turtle
+01/18/2021 16:30:59 - Azael[2000008]: @monster turtle_general
+01/18/2021 16:32:01 - Azael[2000008]: @item píke
+01/18/2021 16:32:03 - Azael[2000008]: @item píke_
+01/18/2021 16:32:06 - Azael[2000008]: @item píka_
+01/18/2021 16:32:08 - Azael[2000008]: @item píka
+01/18/2021 16:32:10 - Azael[2000008]: @item píka
+01/18/2021 16:32:15 - Azael[2000008]: @item píke
+01/18/2021 16:32:17 - Azael[2000008]: @item píke_
+01/18/2021 16:32:20 - Azael[2000008]: @item
+01/18/2021 16:32:43 - Azael[2000008]: @item Pike_
+01/18/2021 16:32:58 - Azael[2000008]: @item turtle_general_card
+01/18/2021 16:32:59 - Azael[2000008]: @item turtle_general_card
+01/18/2021 16:33:00 - Azael[2000008]: @item turtle_general_card
+01/18/2021 16:33:00 - Azael[2000008]: @item turtle_general_card
+01/18/2021 16:33:28 - Azael[2000008]: @item turtle_general_card
+01/18/2021 16:33:40 - Azael[2000008]: @monster turtle_general
+01/18/2021 16:34:03 - Azael[2000008]: @allstat +13
+01/18/2021 16:34:16 - Azael[2000008]: @monster turtle_general
+01/18/2021 16:34:23 - Azael[2000008]: @monster turtle_general
+01/18/2021 16:35:42 - Azael[2000008]: @item 2115
+01/18/2021 16:35:47 - Azael[2000008]: @item 2137
+01/18/2021 16:36:20 - Azael[2000008]: @item 2357
+01/18/2021 16:36:48 - Azael[2000008]: @item 2421
+01/18/2021 16:37:10 - Azael[2000008]: @item 2524
+01/18/2021 16:39:07 - Azael[2000008]: @item ferus_Card
+01/18/2021 16:39:26 - Azael[2000008]: @item ferus__Card
+01/18/2021 16:39:49 - Azael[2000008]: @item tao_gunka_card
+01/18/2021 16:40:59 - Azael[2000008]: @monster turtle
+01/18/2021 16:41:05 - Azael[2000008]: @monster turtle_General
+01/18/2021 16:41:26 - Azael[2000008]: @monster turtle_General
+01/18/2021 16:41:36 - Azael[2000008]: @monster turtle_General
+01/18/2021 16:41:43 - Azael[2000008]: @monster turtle_General
+01/18/2021 16:41:48 - Azael[2000008]: @monster turtle_General
+01/18/2021 16:41:51 - Azael[2000008]: @monster turtle_General
+01/18/2021 16:42:23 - Azael[2000008]: @vit +40
+01/18/2021 16:45:59 - Azael[2000008]: @monster ifrit
+01/18/2021 16:46:30 - Azael[2000008]: @alive
+01/18/2021 16:46:37 - Azael[2000008]: @item 607 100
+01/18/2021 16:46:43 - Azael[2000008]: @alive
+01/18/2021 16:46:49 - Azael[2000008]: @alive
+01/18/2021 16:47:22 - Azael[2000008]: @monster ifrit
+01/18/2021 16:48:11 - Azael[2000008]: @item 607 100
+01/18/2021 16:48:13 - Azael[2000008]: @alive
+01/18/2021 16:49:02 - Azael[2000008]: @monster ifrit
+01/18/2021 16:49:40 - Azael[2000008]: @killmonster
+01/18/2021 16:49:43 - Azael[2000008]: @alive
+01/19/2021 21:26:20 - Prueba[2000009]: @item 25011
+01/19/2021 21:30:30 - Prueba[2000009]: @item 25010
+01/19/2021 21:56:01 - Prueba[2000009]: @allstats +5000
+01/19/2021 21:56:51 - Prueba[2000009]: @job
+01/19/2021 21:57:58 - Prueba[2000009]: @job 4062
+01/19/2021 21:59:08 - Prueba[2000009]: @allskills
+01/19/2021 22:00:47 - Prueba[2000009]: @lvup 200
+01/19/2021 22:00:53 - Prueba[2000009]: @lvup 200
+01/19/2021 22:04:49 - Prueba[2000009]: @job 
+01/19/2021 22:04:55 - Prueba[2000009]: @job 
+01/19/2021 22:06:04 - Prueba[2000009]: @job
+01/19/2021 22:06:27 - Prueba[2000009]: @job 4011
+01/19/2021 22:06:48 - Prueba[2000009]: @job 4061
+01/19/2021 22:07:05 - Prueba[2000009]: @allskill
+01/19/2021 22:18:41 - Prueba[2000009]: @job
+01/19/2021 22:19:10 - Prueba[2000009]: @job 4062
+01/19/2021 22:22:24 - Prueba[2000009]: @job 4061

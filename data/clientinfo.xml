@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+<clientinfo>
+<servicetype>korea</servicetype>
+<servertype>sakray</servertype>
+   <connection>
+      <display>Moonlight Kingdom</display>
+      <balloon>Ragnarok Online</balloon>
+      <desc>Moonlight Kingdom</desc>
+      <address>127.0.0.1</address>
+      <port>6900</port>
+      <version>29</version>
+      <langtype>1</langtype>
+      <registrationweb>www.falsedomainteste.com</registrationweb>
+        <aid>
+            <admin>2000000</admin>
+			<admin>2000000</admin>
+			<admin>2000001</admin>
+			<admin>2000002</admin>
+			<admin>2000003</admin>
+			<admin>2000004</admin>
+        </aid>
+        <loading>
+            <image>loadingscreen01.jpg</image>
+            <image>loadingscreen02.jpg</image>
+            <image>loadingscreen03.jpg</image>
+            <image>loadingscreen04.jpg</image>
+            <image>loadingscreen05.jpg</image>
+            <image>loadingscreen06.jpg</image>
+            <image>loadingscreen07.jpg</image>
+            <image>loadingscreen08.jpg</image>
+            <image>loadingscreen09.jpg</image>
+            <image>loadingscreen10.jpg</image>
+            <image>loadingscreen11.jpg</image>
+            <image>loadingscreen12.jpg</image>
+            <image>loadingscreen13.jpg</image>
+            <image>loadingscreen14.jpg</image>
+            <image>loadingscreen15.jpg</image>
+            <image>loadingscreen16.jpg</image>
+        </loading>
+   </connection>
+</clientinfo>

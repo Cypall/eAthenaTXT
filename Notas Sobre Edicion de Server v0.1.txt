@@ -1,0 +1,100 @@
+https://fsymbols.com/es/generadores/ -- link para letras--
+
+╔═══╗──────────────────────────────────────╔═══╗─────╔╗
+║╔═╗║──────────────────────────────────────║╔═╗║────╔╝╚╗
+║╚══╦══╦══╦══╦╦══╦═╗──────╔══╦══╦═╦══╗─────║╚══╦══╦═╬╗╔╬══╦══╗
+╚══╗║║═╣╔═╣╔═╬╣╔╗║╔╗╦══╦══╣╔╗║╔╗║╔╣╔╗╠══╦══╬══╗║╔╗║╔╬╣║║║═╣══╣
+║╚═╝║║═╣╚═╣╚═╣║╚╝║║║╠══╩══╣╚╝║╔╗║║║╔╗╠══╩══╣╚═╝║╚╝║║║║╚╣║═╬══║
+╚═══╩══╩══╩══╩╩══╩╝╚╝─────║╔═╩╝╚╩╝╚╝╚╝─────╚═══╣╔═╩╝╚╩═╩══╩══╝
+──────────────────────────║║───────────────────║║
+──────────────────────────╚╝───────────────────╚╝
+
+Rutas importantes para customizar Alas Sombreros Lentes. Costos y normales
+Importante los 
+
+data\sprite\¾ÆÀÌÅÛ  --->  Dentro de esta ruta se agrega el Spr y Act del dropeable del item a agregar
+
+data\sprite\¾Ç¼¼»ç¸®  --> Dentro de esta ruta se agregan los Act y spr que se veran sobre el personaje
+			  Dentro de la ruta existen dos carpetas una de Nombre ³² que guarda los sprit 
+			  exclusivamente para la skin de Hombre  y Otra de Nombre ¿© la cual guarda los
+			  sprit exclusivamente para la Skin de Mujer - Regularmente el mismo sprit 
+			  funciona para las dos carpetas pero existen exepciones, por eljemplo cuando 
+   			  se requiere que el sprit de Hombre sea distinto al de Mujer.
+			  los nombres de los archivos tanto spr como Act se deben guardar con 
+			  ¿©_"mas el nombre que se le dio al sprit en el dropeable" para Hombre como para mujer
+			  ¿©_"nombre" y ³²_"nombre" en sus respectivas carpetas
+
+
+data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item  --> Dentro de esta ruta se debe de guardar el bpm del item para mostrarlo
+				      dentro del inventario del Payer, se debe guardar con el mismo nombre
+				      que se le ha asignado al archivo spr del dropeable.
+
+
+data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection --> Dentro de esta ruta se guardara la Imagen bpmn o png de el Item para mostrar
+					   con su descripcion cuando el Jugador selecione las propiedades para leer
+					   se debe guardar con el mismo nombre del dropeble.
+
+data\idnum2itemdesctable.txt 	-----> Editar el documento siguiente por regla general se debe ir hasta la ultima linea
+					 y agregar el id sigueinte de la misma manera como se esta el anteriro las modificaciones
+					son a creiterio de discucion general -- se agregan la descricion y las estadisticas se deben 
+					un referente para poder idnetificarlas si se dean cambiar.
+
+
+data\idnum2itemdisplaynametable.txt --> Por relga general se agrega en la ultima linea se debe asignar con la misma id que el
+					documento anteriro id#nombre_Del_Sprit# mismo nombre con el que se guardo el dropeable
+
+
+data\idnum2itemresnametable.txt  --> De misma manera se debe agregar con la misma id de los documentos anteriores y al final
+				     del documento id#nombre_Del_Sprit# mismo nombre con el que se guardo el dropeable.
+
+data\itemslotcounttable.txt  -->    Se agrega el mismo id que en los otros documentos al final y entre los gatos la cantidad de slots #1# 
+    				    que debe de tener el item van de 1 hasta 4  depende del tipo de item, quien proporcione el itema gragar
+				    debe de definir la cantidad de slot
+
+
+
+data\luafiles514\lua files\datainfo\accessoryid.lub   -> Este archivo se debe de editar con sumo cuidado la regla general es la siguiente
+							ACCESSORY_RETRIBUTION_WINGS = 999, se agrega la linea ACCESORY_ SEGUDO DEL NOMBRE DEL SPRIT
+							DEL DROPEABLE EN MAYUSCULAS agregar el igual y luego el id que sigue del ultimo elemento agregado
+							si la anterior era 999 la liena agregada debera ser 1000 se debe recordar siempre terminar con una coma ,
+
+data\luafiles514\lua files\datainfo\accname.lub -->  Este archivo debe de seguir la estructura planteada al agregar una nueva liena se tiene que cuidar
+						      lo sigueinte 	[ACCESSORY_IDs.ACCESSORY_RETRIBUTION_WINGS] = "_RETRIBUTION_WINGS",
+						    solo se cambiara apartir de ACCESSORY_"y el nombre del item que se agrega" igual al del dropeable
+						    y la cadena agregada entre los "" debe de comenzar con  _"mas el nombre del item del dropeable"
+							(nota se debe de cuidar siempre terminar con coma estos dos docuemntos)
+
+
+
+
+Una vez que termiandos estos cambios solo falta crear un grf para poder probar los cambios --(le preguntas a paco o a perry para poder que te expliquen)
+
+
+Una vez terminado el comprimido lo siguiente es ir a la siguiente ruta
+
+Dentre_del_emulador\db\item_db2.txt  --> Se debe de agregar un script generico dependiedo de que sea lo que se necesite agregar con el cuidado devido 
+lo unico que sedebe de tener en cuenta es la id de el elemento agregado
+25010,Yellow_Aura,Yellow_Aura,5,100,,10, ,10,,1,0xFFFFFFFF,7,2,4096,,0,0,874,{ skill "AL_BLESSING",4; bonus bVit,6; bonus bStr,6; bonus bMaxHPrate,5;},{ specialeffect2 486; specialeffect2 485; specialeffect2 240; specialeffect2 240; specialeffect2 240; specialeffect2 240; specialeffect2 244; specialeffect2 236; specialeffect2 261; specialeffect2 262; specialeffect2 263; specialeffect2 266; specialeffect2 257; specialeffect2 276; specialeffect2 367; specialeffect2 377; specialeffect2 380; specialeffect2 385; specialeffect2 400; specialeffect2 339; specialeffect2 254; specialeffect2 240; specialeffect2 240; specialeffect2 240; },{}
+
+lo unico que se debe tener cuidado al agrergarlo es el 874 de la posicion antes delprimer corchete { 
+ese numero es la id  \data\luafiles514\lua files\datainfo\accessoryid.lub del item que se esta agregando o al que pertenecera
+
+para aceder a los scrip genericos se agregara un documento con nombre scripgenericos donde estaran ejemplos de scrip vacios para implementar
+
+
+una vez terminado todos los pasos anteriores se debe de copear el grf  nuevo creado a la carpeta del servidor y correr el emulador--> 
+Una vez creado se debe testear en el juego Preguntar a paco o a perry sobre comando de GM
+
+
+
+
+
+					
+
+
+
+
+
+
+
+

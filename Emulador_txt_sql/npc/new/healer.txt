@@ -1,0 +1,23 @@
+//PROGRAM BY PERRY
+prontera.gat,147,173,6	script	Healer	962,{
+specialeffect2 325,0; percentheal 100,100;
+close;
+}
+
+// --------- NPC Clones ---------
+morocc,161,97,5	duplicate(Healer)	Healer#h1-2	962
+ayothaya,215,265,5	duplicate(Healer)	Healer#h1-3	962
+geffen,124,73,5	duplicate(Healer)	Healer#h1-4	962
+payon,149,232,5	duplicate(Healer)	Healer#h1-6	962
+alberta,120,60,5	duplicate(Healer)	Healer#h1-7	962
+aldebaran,144,123,5	duplicate(Healer)	Healer#h1-8	962
+izlude,122,118,5	duplicate(Healer)	Healer#h1-9	962
+xmas,149,136,5	duplicate(Healer)	Healer#h1-10	962
+comodo,194,167,5	duplicate(Healer)	Healer#h1-11	962
+amatsu,121,161,5	duplicate(Healer)	Healer#h1-12	962
+gonryun,154,122,5	duplicate(Healer)	Healer#h1-13	962
+yuno,162,47,5	duplicate(Healer)	Healer#h1-14	962
+louyang,225,103,5	duplicate(Healer)	Healer#h1-16	962
+hugel,102,146,5	duplicate(Healer)	Healer#h1-17	962
+rachel,134,113,5	duplicate(Healer)	Healer#h1-18	962
+moscovia,229,197,5	duplicate(Healer)	Healer#h1-19	962

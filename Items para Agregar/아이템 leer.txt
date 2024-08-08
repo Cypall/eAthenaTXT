@@ -1,0 +1,1 @@
+La carpeta con el nombre de este archivo es la vista del objeto en el inventario.

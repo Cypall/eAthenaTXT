@@ -1,0 +1,154 @@
+//PROGRAM BY PERRY
+prontera,164,165,4	script	Estilista	122,{
+	mes "[^FF8000Estilista^000000]";
+	mes "Hola soy el estilista puedo cambiar tu apariencia";
+	mes " ";
+	mes "Que deseas que cambie?";
+	next;
+	menu "Estilo de Cabello",Lstyle,"Color de Cabello",Lcolor,"Color de Ropa",Lcloth,"Nada",LCancel;
+
+	Lstyle:
+		mes "[^FF8000Estilista^000000]";
+		mes "Deseas probar hasta encontrar uno que te guste?";
+		next;
+		menu "Deseo probar",Lbrowsesty,"Se cual es.",Lwantsty;
+
+	Lwantsty:
+		mes "[^FF8000Stylist^000000]";
+		mes "Okay, aqui vamos";
+ 		next;
+		mes "[^FF8000Stylist^000000]";
+		mes "por favor selecciona el numero ^0000FFhay de 0 a 46^000000.";
+		mes "El numero 0 es el predetermindo para tu personaje";
+ 		next;
+		input @sty;
+		if (@sty>46) close;
+		if (@sty<0) close;
+		setlook 1,@sty;
+		next;
+		mes "[^FF8000Stylist^000000]";
+		mes "Este esta bien o prefieres otro?";
+		next;
+		menu "Este esta bien",-,"Uno diferente",Lwantsty;
+		next;
+		mes "[^FF8000Stylist^000000]";
+		mes "Te ves bien "+ strcharinfo(0) +" vuelve cuando quieras";
+		close;
+
+	Lbrowsesty:
+		set @look, -1;
+		mes "[^FF8000Stylist^000000]";
+		mes "Okay, aqui vamos, me dices si te gusta alguno?";
+		next;
+
+	Lbrowserep:
+		set @look,@look+1;
+		setlook 1,@look;
+		mes "Este es el estilo numero^FF9009 "+@look+" ^000000!"; 
+		if(@look == 46) menu "Volver a buscar",Lbrowsesty,"Me gusta este",Lstop;
+		if(@look != 46)	menu "Siguiente",Lbrowserep,"Me gusta este",Lstop;
+		
+	Lcolor:
+		mes "[^FF8000Stylist^000000]";
+		mes "Deseas probar hasta encontra uno que te guste?";
+		mes "O sabes cual es el que quieres.";
+		next;
+		menu "Quiero probar",Lbrowsecolor,"Se cual es",Lwantcolor;
+
+	Lwantcolor:
+		mes "[^FF8000Stylist^000000]";
+		mes "Just pick a color and we can get started.";
+		next;
+		mes "[^FF8000Stylist^000000]";
+		mes "Please pick a style number ^0000FFbetween 0 and 251^000000.";
+		mes "Number 0, by the way, is the default color for your character.";
+ 		next;
+		mes "[^FF8000Stylist^000000]";
+		mes "0 is default...";
+		mes "1 is blonde...";
+		mes "2 is lavender...";
+		mes "3 is brown...";
+		mes "4 is green...";
+		mes "5 is blue...";
+		mes "6 is white...";
+		mes "7 is black...";
+		mes "8 is red...";
+		mes "and 9-251 are new colors.";
+		input @color;
+		if (@color>251) close;
+		if (@color<0) close;
+		setlook 6,@color;
+		next;
+		mes "[^FF8000Stylist^000000]";
+		mes "Is this good, or do you want a different color?";
+		next;
+		menu "This is good",-,"Different color, please",Lwantcolor;
+		next;
+		mes "[^FF8000Stylist^000000]";
+		mes "Te ves bien "+ strcharinfo(0) +" vuelve cuando quieras";
+		close;
+
+	Lbrowsecolor:
+		set @look, -1;
+		mes "[^FF8000Stylist^000000]";
+		mes "Okay, aqui vamos, me dices si te gusta alguno?";
+		next;
+
+	Lbrowsecolorrep:
+		set @look,@look+1;
+		setlook 6,@look;
+		mes "Este es el color numero^FF9009 "+@look+" ^000000!"; 
+		if(@look == 251) menu "Volver a buscar",Lbrowsecolor,"Me gusta este",Lstop;
+		if(@look != 251) menu "Siguiente",Lbrowsecolorrep,"Me gusta este.",Lstop;
+
+		Lstop:
+			mes "[^FF8000Estilista^000000]";
+			mes "Te ves bien "+ strcharinfo(0) +" vuelve cuando quieras";
+			close;
+
+	LCancel:
+		mes "[^FF8000Estilista^000000]";
+		mes "Bien, regresa cuando quieras un cambio.";
+		close;
+
+	Lcloth:
+		mes "[^FF8000Estilista^000000]";
+		mes "Muy bien "+ strcharinfo(0) +" cambiare tu color de ropa";
+		next;
+		mes "Deseas probar asta encontra uno que te guste?";
+		mes "O sabes cual es el color que quieres";
+		next;
+		menu "Deseo Probar",Lbrowsecloth,"Se cual es el color",Lwantcloth;
+
+	Lwantcloth:
+		mes "[^FF8000Estilista^000000]";
+		mes "Por favor escribe el numero del color hay ^0000FFdesde 0 asta 100^000000.";
+		mes "El numero 0 es el color por defecto para tu personaje.";
+ 		next;
+		input @pal;
+		if (@pal>100) close;
+		if (@pal<0) close;
+		setlook 7,@pal;
+		next;
+		mes "[^FF8000Estilista^000000]";
+		mes "Esta bien este o quieres un color diferente?";
+		next;
+		menu "Este esta bien",-,"Un color diferente, por favor",Lwantcloth;
+		next;
+		mes "[^FF8000Estilista^000000]";
+		mes "Te ves bien "+ strcharinfo(0) +" vuelve cuando quieras";
+		close;
+
+	Lbrowsecloth:
+		set @look, -1;
+		mes "[^FF8000Estilista^000000]";
+		mes "Okay, aqui vamos!  Me dices cuando me detenga, okay?";
+		next;
+
+	Lbrowseclothrep:
+		set @look,@look+1;
+		setlook 7,@look+0;
+		mes "Color numero^FF9009 "+@look+" ^000000!";
+		if(@look == 100) menu "Volver a buscar",Lbrowsecloth,"Me gusta",Lstop;
+		if(@look != 100) menu "Siguiente",Lbrowseclothrep,"Me gusta",Lstop;
+}

@@ -1,0 +1,24 @@
+20110114
+// Accounts file: here are saved all information about the accounts.
+// Structure: account ID, username, password, sex, email, level, state, unban time, expiration time, # of logins, last login time, last (accepted) login ip, birth date, repeated(register key, register value)
+// where:
+//   sex             : M or F for normal accounts, S for server accounts
+//   level           : this account's gm level
+//   state           : 0: account is ok, 1 to 256: error code of packet 0x006a + 1
+//   unban time      : 0: no ban, <other value>: banned until the date (unix timestamp)
+//   expiration time : 0: unlimited account, <other value>: account expires on the date (unix timestamp)
+1	s1	p1	S	a@a.com	0	0	0	0	72	2021-01-19 21:53:56	127.0.0.1	0000-00-00	
+2	s2	p2	S	a@a.com	0	0	0	0	0	0000-00-00 00:00:00	-	0000-00-00	
+3	s3	p3	S	a@a.com	0	0	0	0	0	0000-00-00 00:00:00	-	0000-00-00	
+4	s4	p4	S	a@a.com	0	0	0	0	0	0000-00-00 00:00:00	-	0000-00-00	
+5	s5	p5	S	a@a.com	0	0	0	0	0	0000-00-00 00:00:00	-	0000-00-00	
+2000001	Test	Test	M	a@a.com	0	0	0	0	0	0000-00-00 00:00:00	-	0000-00-00	
+2000002	Hola	12345	M	a@a.com	99	0	0	0	17	2020-08-08 01:42:26	127.0.0.1	0000-00-00	
+2000003	test1	12345	M	a@a.com	0	0	0	0	1	2019-01-25 22:52:54	127.0.0.1	0000-00-00	
+2000004	test2	12345	M	a@a.com	0	0	0	0	1	2019-01-25 22:53:29	127.0.0.1	0000-00-00	
+2000005	test3	12345	M	a@a.com	99	0	0	0	68	2021-01-18 12:14:43	127.0.0.1	0000-00-00	
+2000006	Zavitad	123456789	M	a@a.com	0	0	0	0	20	2019-11-10 20:14:20	169.254.88.188	0000-00-00	
+2000007	test4	12345	M	a@a.com	0	0	0	0	9	2019-06-28 15:42:59	169.254.108.72	0000-00-00	
+2000008	rafa666	123456	M	a@a.com	99	0	0	0	5	2021-01-18 16:26:36	127.0.0.1	0000-00-00	
+2000009	Cruiz	12345	M	a@a.com	99	0	0	0	5	2021-01-19 22:12:55	127.0.0.1	0000-00-00	
+2000010	%newid%

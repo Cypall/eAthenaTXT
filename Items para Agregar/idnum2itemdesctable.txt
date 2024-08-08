@@ -1,0 +1,16 @@
+"NUMERO DE ID"#
+Remplaza este texto para poner una descripcion del objeto
+Class :^777777 Wing^000000
+Defense :^777777 10^000000
+Equipped on :^777777 Upper^000000
+Weight :^777777 10^000000
+Applicable Job :^777777 Every Job^000000
+#
+"NUMERO DE ID"#
+Agregalos asi uno debajo de otro para agregar mas objetos, aqui va le descripcion del objeto
+Class :^777777 Wing^000000
+Defense :^777777 10^000000
+Equipped on :^777777 Upper^000000
+Weight :^777777 10^000000
+Applicable Job :^777777 Every Job^000000
+#

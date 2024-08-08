@@ -1,0 +1,307 @@
+2017-02-14 17:37:54	0.0.0.0	login server	100	login server started
+2017-02-14 17:37:54	192.168.0.101	s1	100	charserver - eAthena@192.168.0.101:6121
+2017-02-16 22:55:58	0.0.0.0	login server	100	login server started
+2017-02-16 22:56:00	25.5.205.115	s1	100	charserver - eAthena@25.5.205.115:6121
+2017-02-16 22:57:27	0.0.0.0	login server	100	login server started
+2017-02-16 22:57:28	25.5.205.115	s1	100	charserver - eAthena@25.5.205.115:6121
+2017-02-16 22:58:58	25.5.205.115	Hola	100	login ok
+2017-02-16 23:03:59	0.0.0.0	login server	100	login server started
+2017-02-16 23:04:00	25.5.205.115	s1	100	charserver - eAthena@25.5.205.115:6121
+2017-02-16 23:04:22	25.5.205.115	Hola	100	login ok
+2017-02-16 23:06:14	25.5.205.115	Hola	100	login ok
+2017-02-16 23:07:48	25.5.205.115	Hola	100	login ok
+2017-02-18 00:03:28	0.0.0.0	login server	100	login server started
+2017-02-18 00:03:30	25.5.205.115	s1	100	charserver - eAthena@25.5.205.115:6121
+2017-02-18 00:03:46	25.5.205.115	Hola	100	login ok
+2017-02-18 00:11:08	0.0.0.0	login server	100	login server started
+2017-02-18 00:11:09	25.5.205.115	s1	100	charserver - eAthena@25.5.205.115:6121
+2017-02-18 00:11:27	25.5.205.115	Hola	100	login ok
+2017-02-18 00:12:22	25.5.205.115	Hola	100	login ok
+2017-02-18 01:43:32	0.0.0.0	login server	100	login server started
+2017-02-18 01:43:33	25.5.205.115	s1	100	charserver - eAthena@25.5.205.115:6121
+2017-02-18 01:44:01	25.5.205.115	Hola	1	Incorrect Password.
+2017-02-18 01:44:07	25.5.205.115	Hola	100	login ok
+2017-02-18 01:45:26	25.5.205.115	Hola	100	login ok
+2017-02-18 01:48:56	0.0.0.0	login server	100	login server started
+2017-02-18 01:48:57	25.5.205.115	s1	100	charserver - eAthena@25.5.205.115:6121
+2017-02-18 01:49:29	25.5.205.115	Hola	100	login ok
+2017-02-18 14:11:20	0.0.0.0	login server	100	login server started
+2017-02-18 14:11:22	25.5.205.115	s1	100	charserver - eAthena@25.5.205.115:6121
+2017-02-18 14:12:12	25.5.205.115	Hola	100	login ok
+2017-11-18 15:26:08	0.0.0.0	login server	100	login server started
+2018-12-15 17:40:56	0.0.0.0	login server	100	login server started
+2018-12-15 17:40:58	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2018-12-15 17:44:20	127.0.0.1	might	0	Unregistered ID.
+2018-12-15 17:44:28	127.0.0.1	Hola	100	login ok
+2019-01-16 19:49:27	0.0.0.0	login server	100	login server started
+2019-01-16 19:49:29	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2019-01-16 19:50:19	127.0.0.1	Hola	100	login ok
+2019-01-16 20:08:48	0.0.0.0	login server	100	login server started
+2019-01-16 20:08:49	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2019-01-16 20:09:32	127.0.0.1	Hola	100	login ok
+2019-01-25 22:47:43	0.0.0.0	login server	100	login server started
+2019-01-25 22:47:44	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2019-01-25 22:49:52	127.0.0.1	Hola	100	login ok
+2019-01-25 22:52:48	127.0.0.1	test1	0	Unregistered ID.
+2019-01-25 22:52:54	127.0.0.1	test1	100	login ok
+2019-01-25 22:53:29	127.0.0.1	test2	100	login ok
+2019-01-25 22:53:56	127.0.0.1	test3	100	login ok
+2019-01-25 23:09:48	0.0.0.0	login server	100	login server started
+2019-01-25 23:09:50	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2019-01-25 23:10:20	127.0.0.1	test3	100	login ok
+2019-02-23 22:16:33	0.0.0.0	login server	100	login server started
+2019-02-23 22:16:35	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2019-02-23 22:29:17	127.0.0.1	test3	1	Incorrect Password.
+2019-02-23 22:29:20	127.0.0.1	test3	100	login ok
+2019-02-23 22:54:59	0.0.0.0	login server	100	login server started
+2019-02-23 22:55:02	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2019-02-23 22:55:23	127.0.0.1	test3	100	login ok
+2019-02-23 23:07:52	0.0.0.0	login server	100	login server started
+2019-02-23 23:07:53	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2019-02-23 23:08:08	127.0.0.1	test3	100	login ok
+2019-02-23 23:11:45	0.0.0.0	login server	100	login server started
+2019-02-23 23:11:46	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2019-02-23 23:12:16	127.0.0.1	test3	100	login ok
+2019-02-23 23:13:43	0.0.0.0	login server	100	login server started
+2019-02-23 23:13:44	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2019-02-23 23:13:47	127.0.0.1	test3	100	login ok
+2019-02-23 23:17:06	0.0.0.0	login server	100	login server started
+2019-02-23 23:17:07	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2019-02-23 23:17:10	127.0.0.1	test3	100	login ok
+2019-02-23 23:17:14	127.0.0.1	test3	100	login ok
+2019-02-23 23:51:54	127.0.0.1	test3	100	login ok
+2019-02-27 17:54:55	0.0.0.0	login server	100	login server started
+2019-02-27 17:54:57	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2019-02-27 17:55:38	127.0.0.1	test3	100	login ok
+2019-02-27 17:56:42	127.0.0.1	test3	100	login ok
+2019-02-27 18:19:04	0.0.0.0	login server	100	login server started
+2019-02-27 18:19:06	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2019-02-27 18:19:22	127.0.0.1	test3	100	login ok
+2019-02-27 18:35:19	0.0.0.0	login server	100	login server started
+2019-02-27 18:35:21	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2019-02-27 18:35:43	127.0.0.1	test3	100	login ok
+2019-02-27 18:58:19	0.0.0.0	login server	100	login server started
+2019-02-27 18:58:21	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2019-02-27 18:58:34	127.0.0.1	test3	100	login ok
+2019-02-27 22:48:42	0.0.0.0	login server	100	login server started
+2019-02-27 22:48:43	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2019-02-27 22:48:55	127.0.0.1	test3	100	login ok
+2019-02-27 22:48:59	127.0.0.1	test3	100	login ok
+2019-02-27 22:49:06	127.0.0.1	test3	100	login ok
+2019-02-27 22:49:19	127.0.0.1	test3	100	login ok
+2019-02-28 17:51:59	0.0.0.0	login server	100	login server started
+2019-02-28 17:52:00	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2019-02-28 17:53:57	0.0.0.0	login server	100	login server started
+2019-02-28 17:53:59	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-02-28 17:54:56	169.254.108.72	test3	100	login ok
+2019-02-28 17:56:28	169.254.88.188	Zavitad	100	login ok
+2019-03-01 11:15:56	0.0.0.0	login server	100	login server started
+2019-03-01 11:15:58	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-03-01 11:16:47	169.254.108.72	test3	100	login ok
+2019-03-01 11:17:19	169.254.88.188	Zavitad	1	Incorrect Password.
+2019-03-01 11:17:38	169.254.88.188	Zavitad	100	login ok
+2019-03-01 11:23:00	169.254.88.188	Zavitad	100	login ok
+2019-03-01 11:36:42	169.254.88.188	Zavitad	100	login ok
+2019-03-01 14:06:34	0.0.0.0	login server	100	login server started
+2019-03-01 14:06:35	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-03-01 14:06:54	169.254.108.72	test3	100	login ok
+2019-03-01 14:07:09	169.254.88.188	Zavitad	100	login ok
+2019-03-01 14:10:46	0.0.0.0	login server	100	login server started
+2019-03-01 14:10:48	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-03-01 14:10:57	169.254.108.72	test3	100	login ok
+2019-03-01 14:11:20	169.254.88.188	Zavitad	100	login ok
+2019-03-01 14:17:08	0.0.0.0	login server	100	login server started
+2019-03-01 14:17:09	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-03-01 14:17:13	169.254.108.72	test3	100	login ok
+2019-03-01 14:17:26	169.254.88.188	Zavitad	100	login ok
+2019-03-01 14:27:10	169.254.88.188	Zavitad	100	login ok
+2019-03-01 14:27:22	169.254.108.72	test3	100	login ok
+2019-03-01 14:51:28	169.254.88.188	Zavitad	100	login ok
+2019-03-01 15:27:23	0.0.0.0	login server	100	login server started
+2019-03-01 15:27:24	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-03-01 15:27:26	169.254.88.188	Zavitad	100	login ok
+2019-03-01 15:27:29	169.254.108.72	test3	100	login ok
+2019-03-01 17:27:24	169.254.88.188	Zavitad	100	login ok
+2019-03-01 18:36:45	169.254.88.188	Zavitad	100	login ok
+2019-03-01 18:36:59	169.254.88.188	Zavitad	100	login ok
+2019-03-01 18:37:00	169.254.108.72	test3	100	login ok
+2019-03-02 13:33:34	0.0.0.0	login server	100	login server started
+2019-03-02 13:33:40	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-03-02 13:34:16	169.254.88.188	Zavitad	100	login ok
+2019-03-02 13:34:20	169.254.108.72	test3	100	login ok
+2019-03-14 20:06:04	0.0.0.0	login server	100	login server started
+2019-03-14 20:06:06	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-03-14 20:06:26	169.254.108.72	test3	1	Incorrect Password.
+2019-03-14 20:06:28	169.254.108.72	test3	100	login ok
+2019-03-14 20:06:32	169.254.108.72	test3	100	login ok
+2019-03-14 20:06:36	169.254.108.72	test3	100	login ok
+2019-03-14 20:07:04	169.254.88.188	Zavitad	100	login ok
+2019-03-14 20:08:22	169.254.88.188	Zavitad	100	login ok
+2019-05-26 18:32:00	0.0.0.0	login server	100	login server started
+2019-05-26 18:32:01	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-05-26 18:32:54	169.254.108.72	test3	100	login ok
+2019-06-09 00:52:47	0.0.0.0	login server	100	login server started
+2019-06-09 00:52:50	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-06-09 00:53:40	169.254.108.72	Hola	100	login ok
+2019-06-09 00:54:27	169.254.108.72	test3	100	login ok
+2019-06-11 17:55:44	0.0.0.0	login server	100	login server started
+2019-06-11 17:55:46	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-06-11 17:56:32	169.254.108.72	test3	100	login ok
+2019-06-11 18:10:00	0.0.0.0	login server	100	login server started
+2019-06-11 18:10:02	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-06-11 18:10:06	169.254.108.72	test3	100	login ok
+2019-06-11 18:12:33	0.0.0.0	login server	100	login server started
+2019-06-11 18:12:34	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-06-11 18:12:39	169.254.108.72	test3	100	login ok
+2019-06-11 18:18:14	0.0.0.0	login server	100	login server started
+2019-06-11 18:18:16	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-06-11 18:18:20	169.254.108.72	test3	100	login ok
+2019-06-11 18:19:10	0.0.0.0	login server	100	login server started
+2019-06-11 18:19:12	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-06-11 18:19:16	169.254.108.72	test3	100	login ok
+2019-06-11 18:27:38	0.0.0.0	login server	100	login server started
+2019-06-11 18:27:39	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-06-11 18:27:43	169.254.108.72	test3	100	login ok
+2019-06-11 18:29:19	0.0.0.0	login server	100	login server started
+2019-06-11 18:29:21	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-06-11 18:29:25	169.254.108.72	test3	100	login ok
+2019-06-16 20:11:46	0.0.0.0	login server	100	login server started
+2019-06-16 20:11:47	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-06-16 20:12:17	169.254.108.72	test3	100	login ok
+2019-06-16 20:31:58	169.254.108.72	test4	0	Unregistered ID.
+2019-06-16 20:32:03	169.254.108.72	test4	100	login ok
+2019-06-17 19:34:23	0.0.0.0	login server	100	login server started
+2019-06-17 19:34:25	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-06-17 19:34:56	169.254.108.72	test3	100	login ok
+2019-06-17 20:40:29	0.0.0.0	login server	100	login server started
+2019-06-17 20:40:32	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-06-17 20:40:44	169.254.108.72	test3	100	login ok
+2019-06-17 20:47:49	0.0.0.0	login server	100	login server started
+2019-06-17 20:47:50	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-06-18 19:22:09	0.0.0.0	login server	100	login server started
+2019-06-18 19:22:10	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-06-18 19:22:37	169.254.108.72	test3	100	login ok
+2019-06-20 21:41:11	0.0.0.0	login server	100	login server started
+2019-06-20 21:41:13	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-06-20 21:41:27	169.254.108.72	test3	100	login ok
+2019-06-20 21:41:30	169.254.108.72	test3	100	login ok
+2019-06-20 21:41:33	169.254.108.72	test3	100	login ok
+2019-06-20 21:42:24	169.254.108.72	test4	100	login ok
+2019-06-21 19:35:29	0.0.0.0	login server	100	login server started
+2019-06-21 19:35:31	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-06-21 19:35:47	169.254.108.72	test3	100	login ok
+2019-06-21 19:49:50	169.254.108.72	test4	100	login ok
+2019-06-21 21:20:57	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-06-24 22:23:26	0.0.0.0	login server	100	login server started
+2019-06-24 22:23:28	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-06-24 22:23:48	169.254.108.72	test3	100	login ok
+2019-06-24 22:23:52	169.254.108.72	test3	100	login ok
+2019-06-24 22:23:56	169.254.108.72	test3	100	login ok
+2019-06-25 21:39:50	0.0.0.0	login server	100	login server started
+2019-06-25 21:39:51	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-06-25 21:40:15	169.254.108.72	test3	100	login ok
+2019-06-25 21:40:23	169.254.108.72	test3	100	login ok
+2019-06-25 21:47:06	169.254.108.72	test3	100	login ok
+2019-06-25 21:47:26	169.254.108.72	test4	100	login ok
+2019-06-25 22:46:16	0.0.0.0	login server	100	login server started
+2019-06-25 22:46:18	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-06-25 22:46:42	169.254.108.72	test4	100	login ok
+2019-06-27 21:44:36	0.0.0.0	login server	100	login server started
+2019-06-27 21:44:38	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-06-27 21:44:47	169.254.108.72	test4	100	login ok
+2019-06-27 21:44:56	169.254.108.72	test4	100	login ok
+2019-06-27 21:48:57	0.0.0.0	login server	100	login server started
+2019-06-27 21:48:58	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-06-27 21:49:14	169.254.108.72	test4	100	login ok
+2019-06-27 22:02:44	169.254.108.72	test3	100	login ok
+2019-06-27 22:16:37	169.254.108.72	test3	100	login ok
+2019-06-27 22:28:07	0.0.0.0	login server	100	login server shutdown
+2019-06-28 15:42:45	0.0.0.0	login server	100	login server started
+2019-06-28 15:42:47	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-06-28 15:42:59	169.254.108.72	test4	100	login ok
+2019-06-28 16:09:18	0.0.0.0	login server	100	login server started
+2019-06-28 16:09:19	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-06-28 16:10:35	169.254.108.72	test3	100	login ok
+2019-06-28 19:34:52	0.0.0.0	login server	100	login server started
+2019-06-28 19:34:57	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-06-28 19:35:15	169.254.108.72	test3	100	login ok
+2019-06-28 20:00:14	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-06-28 21:05:14	169.254.108.72	s1	100	charserver - eAthena@169.254.108.72:6121
+2019-07-01 17:22:19	0.0.0.0	login server	100	login server started
+2019-07-01 17:22:20	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2019-07-01 17:23:26	0.0.0.0	login server	100	login server started
+2019-07-01 17:23:28	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2019-08-24 21:40:51	0.0.0.0	login server	100	login server started
+2019-08-24 21:40:52	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2019-10-23 18:56:06	0.0.0.0	login server	100	login server started
+2019-10-23 18:56:07	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2019-10-23 18:57:09	127.0.0.1	test3	100	login ok
+2019-10-23 20:20:30	0.0.0.0	login server	100	login server shutdown
+2019-11-10 18:53:09	0.0.0.0	login server	100	login server started
+2019-11-10 18:53:11	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2019-11-10 18:54:47	127.0.0.1	test3	100	login ok
+2019-11-10 19:03:53	0.0.0.0	login server	100	login server started
+2019-11-10 19:03:55	169.254.82.200	s1	100	charserver - eAthena@169.254.82.200:6121
+2019-11-10 19:05:06	169.254.88.188	Zavitad	100	login ok
+2019-11-10 19:05:39	169.254.82.200	test3	100	login ok
+2019-11-10 19:11:11	169.254.88.188	Zavitad	100	login ok
+2019-11-10 19:15:23	169.254.88.188	Zavitad	100	login ok
+2019-11-10 19:36:20	169.254.82.200	test3	100	login ok
+2019-11-10 19:36:41	169.254.82.200	test3	100	login ok
+2019-11-10 20:14:20	169.254.88.188	Zavitad	100	login ok
+2019-12-10 03:04:37	0.0.0.0	login server	100	login server started
+2019-12-10 03:04:39	169.254.82.200	s1	100	charserver - eAthena@169.254.82.200:6121
+2019-12-10 03:05:57	169.254.82.200	test3	100	login ok
+2020-04-08 04:13:28	0.0.0.0	login server	100	login server started
+2020-04-08 04:13:30	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2020-04-08 04:15:39	127.0.0.1	test3	100	login ok
+2020-08-01 15:38:43	0.0.0.0	login server	100	login server started
+2020-08-01 15:38:45	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2020-08-08 01:41:40	0.0.0.0	login server	100	login server started
+2020-08-08 01:41:41	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2020-08-08 01:42:26	127.0.0.1	hola	100	login ok
+2020-08-08 01:43:03	127.0.0.1	test3	100	login ok
+2020-09-06 15:43:08	0.0.0.0	login server	100	login server started
+2020-09-06 15:43:09	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2020-09-06 15:43:28	127.0.0.1	test3	100	login ok
+2021-01-12 09:58:29	0.0.0.0	login server	100	login server started
+2021-01-12 09:58:31	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2021-01-12 10:00:35	127.0.0.1	test3	100	login ok
+2021-01-18 12:10:02	0.0.0.0	login server	100	login server started
+2021-01-18 12:10:05	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2021-01-18 12:14:43	127.0.0.1	test3	100	login ok
+2021-01-18 15:14:05	0.0.0.0	login server	100	login server started
+2021-01-18 15:14:06	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2021-01-18 15:16:01	127.0.0.1	rafa666	100	login ok
+2021-01-18 15:17:04	127.0.0.1	rafa666	100	login ok
+2021-01-18 15:21:36	127.0.0.1		0	Unregistered ID.
+2021-01-18 15:21:37	127.0.0.1		0	Unregistered ID.
+2021-01-18 15:21:46	127.0.0.1	rafa666	1	Incorrect Password.
+2021-01-18 15:21:49	127.0.0.1	rafa666	100	login ok
+2021-01-18 16:05:15	0.0.0.0	login server	100	login server started
+2021-01-18 16:05:16	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2021-01-18 16:13:17	127.0.0.1	rafa666	100	login ok
+2021-01-18 16:14:51	0.0.0.0	login server	100	login server started
+2021-01-18 16:14:52	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2021-01-18 16:15:35	127.0.0.1	rafa666	100	login ok
+2021-01-18 16:26:36	127.0.0.1	rafa666	100	login ok
+2021-01-19 21:19:15	0.0.0.0	login server	100	login server started
+2021-01-19 21:19:16	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2021-01-19 21:20:08	127.0.0.1	pandelote	0	Unregistered ID.
+2021-01-19 21:21:15	127.0.0.1	Cruiz	100	login ok
+2021-01-19 21:24:02	0.0.0.0	login server	100	login server started
+2021-01-19 21:24:03	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2021-01-19 21:24:32	127.0.0.1	Cruiz	1	Incorrect Password.
+2021-01-19 21:24:40	127.0.0.1	Cruiz	1	Incorrect Password.
+2021-01-19 21:24:50	127.0.0.1	Cruiz	1	Incorrect Password.
+2021-01-19 21:25:28	127.0.0.1	Cruiz	100	login ok
+2021-01-19 21:44:12	0.0.0.0	login server	100	login server started
+2021-01-19 21:44:13	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2021-01-19 21:44:33	127.0.0.1	Cruiz	100	login ok
+2021-01-19 21:53:55	0.0.0.0	login server	100	login server started
+2021-01-19 21:53:56	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2021-01-19 21:54:22	127.0.0.1	Cruiz	100	login ok
+2021-01-19 22:12:55	127.0.0.1	Cruiz	100	login ok
+2021-01-19 22:34:55	0.0.0.0	login server	100	login server started
+2021-01-19 22:34:56	127.0.0.1	s1	100	charserver - eAthena@127.0.0.1:6121
+2021-01-19 22:35:27	127.0.0.1	Cruiz	100	login ok

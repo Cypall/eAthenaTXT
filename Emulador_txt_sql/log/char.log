@@ -1,0 +1,790 @@
+
+14-02-2017 17:37:52: The char-server starting...
+14-02-2017 17:37:52: mmo_char_init: No character found in save/athena.txt.
+14-02-2017 17:37:52: Id for the next created character: 150000.
+14-02-2017 17:37:52: The char-server is ready (Server is listening on the port 6121).
+14-02-2017 17:37:57: Map-Server 0 connected: 804 maps, from IP 192.168.0.101 port 5121. Map-server 0 loading complete.
+
+16-02-2017 22:55:58: The char-server starting...
+16-02-2017 22:55:58: mmo_char_init: No character found in save/athena.txt.
+16-02-2017 22:55:58: Id for the next created character: 150000.
+16-02-2017 22:55:58: The char-server is ready (Server is listening on the port 6121).
+
+16-02-2017 22:57:27: The char-server starting...
+16-02-2017 22:57:27: mmo_char_init: No character found in save/athena.txt.
+16-02-2017 22:57:27: Id for the next created character: 150000.
+16-02-2017 22:57:27: The char-server is ready (Server is listening on the port 6121).
+16-02-2017 22:57:31: Map-Server 0 connected: 804 maps, from IP 25.5.205.115 port 5121. Map-server 0 loading complete.
+16-02-2017 22:59:12: make new char: account: 2000002, slot 0, name: Prueba1, stats: 1/1/1/1/1/1, hair: 1, hair color: 0.
+16-02-2017 22:59:13: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Prueba1.
+16-02-2017 23:00:08: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Prueba1.
+
+16-02-2017 23:03:59: The char-server starting...
+16-02-2017 23:03:59: mmo_char_init: 1 character read in save/athena.txt.
+16-02-2017 23:03:59: Id for the next created character: 150001.
+16-02-2017 23:03:59: The char-server is ready (Server is listening on the port 6121).
+16-02-2017 23:04:04: Map-Server 0 connected: 804 maps, from IP 25.5.205.115 port 5121. Map-server 0 loading complete.
+16-02-2017 23:04:35: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Prueba1.
+16-02-2017 23:06:17: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Prueba1.
+16-02-2017 23:07:49: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Prueba1.
+
+18-02-2017 00:03:29: The char-server starting...
+18-02-2017 00:03:29: mmo_char_init: 1 character read in save/athena.txt.
+18-02-2017 00:03:29: Id for the next created character: 150001.
+18-02-2017 00:03:29: The char-server is ready (Server is listening on the port 6121).
+18-02-2017 00:03:44: Map-Server 0 connected: 804 maps, from IP 25.5.205.115 port 5121. Map-server 0 loading complete.
+18-02-2017 00:04:10: make new char: account: 2000002, slot 1, name: Test 2, stats: 1/1/1/1/1/1, hair: 1, hair color: 0.
+18-02-2017 00:04:22: Character Selected, Account ID: 2000002, Character Slot: 1, Character Name: Test 2.
+18-02-2017 00:05:00: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Prueba1.
+
+18-02-2017 00:11:08: The char-server starting...
+18-02-2017 00:11:08: mmo_char_init: 2 characters read in save/athena.txt.
+18-02-2017 00:11:08: Id for the next created character: 150002.
+18-02-2017 00:11:08: The char-server is ready (Server is listening on the port 6121).
+18-02-2017 00:11:13: Map-Server 0 connected: 804 maps, from IP 25.5.205.115 port 5121. Map-server 0 loading complete.
+18-02-2017 00:11:29: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Prueba1.
+18-02-2017 00:12:24: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Prueba1.
+
+18-02-2017 01:43:32: The char-server starting...
+18-02-2017 01:43:32: mmo_char_init: 2 characters read in save/athena.txt.
+18-02-2017 01:43:32: Id for the next created character: 150002.
+18-02-2017 01:43:32: The char-server is ready (Server is listening on the port 6121).
+18-02-2017 01:43:36: Map-Server 0 connected: 804 maps, from IP 25.5.205.115 port 5121. Map-server 0 loading complete.
+18-02-2017 01:44:10: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Prueba1.
+18-02-2017 01:45:31: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Prueba1.
+
+18-02-2017 01:48:56: The char-server starting...
+18-02-2017 01:48:56: mmo_char_init: 2 characters read in save/athena.txt.
+18-02-2017 01:48:56: Id for the next created character: 150002.
+18-02-2017 01:48:56: The char-server is ready (Server is listening on the port 6121).
+18-02-2017 01:49:01: Map-Server 0 connected: 804 maps, from IP 25.5.205.115 port 5121. Map-server 0 loading complete.
+18-02-2017 01:49:36: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Prueba1.
+
+18-02-2017 14:11:20: The char-server starting...
+18-02-2017 14:11:20: mmo_char_init: 2 characters read in save/athena.txt.
+18-02-2017 14:11:20: Id for the next created character: 150002.
+18-02-2017 14:11:21: The char-server is ready (Server is listening on the port 6121).
+18-02-2017 14:11:37: Map-Server 0 connected: 804 maps, from IP 25.5.205.115 port 5121. Map-server 0 loading complete.
+18-02-2017 14:12:14: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Prueba1.
+
+02-07-2017 00:58:21: The char-server starting...
+02-07-2017 00:58:21: mmo_char_init: 2 characters read in save/athena.txt.
+02-07-2017 00:58:21: Id for the next created character: 150002.
+
+02-07-2017 00:58:46: The char-server starting...
+02-07-2017 00:58:46: mmo_char_init: 2 characters read in save/athena.txt.
+02-07-2017 00:58:46: Id for the next created character: 150002.
+
+14-08-2017 16:16:50: The char-server starting...
+14-08-2017 16:16:50: mmo_char_init: 2 characters read in save/athena.txt.
+14-08-2017 16:16:50: Id for the next created character: 150002.
+
+14-08-2017 16:17:05: The char-server starting...
+14-08-2017 16:17:05: mmo_char_init: 2 characters read in save/athena.txt.
+14-08-2017 16:17:05: Id for the next created character: 150002.
+
+14-08-2017 16:17:19: The char-server starting...
+14-08-2017 16:17:19: mmo_char_init: 2 characters read in save/athena.txt.
+14-08-2017 16:17:19: Id for the next created character: 150002.
+
+18-11-2017 15:26:08: The char-server starting...
+18-11-2017 15:26:08: mmo_char_init: 2 characters read in save/athena.txt.
+18-11-2017 15:26:08: Id for the next created character: 150002.
+18-11-2017 15:26:09: The char-server is ready (Server is listening on the port 6121).
+
+15-12-2018 17:40:56: The char-server starting...
+15-12-2018 17:40:56: mmo_char_init: 2 characters read in save/athena.txt.
+15-12-2018 17:40:56: Id for the next created character: 150002.
+15-12-2018 17:40:57: The char-server is ready (Server is listening on the port 6121).
+15-12-2018 17:41:21: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+15-12-2018 17:44:40: Character Selected, Account ID: 2000002, Character Slot: 1, Character Name: Test 2.
+
+16-01-2019 19:49:27: The char-server starting...
+16-01-2019 19:49:27: mmo_char_init: 2 characters read in save/athena.txt.
+16-01-2019 19:49:27: Id for the next created character: 150002.
+16-01-2019 19:49:28: The char-server is ready (Server is listening on the port 6121).
+16-01-2019 19:49:55: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+16-01-2019 19:50:22: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Prueba1.
+
+16-01-2019 20:08:48: The char-server starting...
+16-01-2019 20:08:48: mmo_char_init: 2 characters read in save/athena.txt.
+16-01-2019 20:08:48: Id for the next created character: 150002.
+16-01-2019 20:08:48: The char-server is ready (Server is listening on the port 6121).
+16-01-2019 20:08:53: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+16-01-2019 20:09:32: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Prueba1.
+
+25-01-2019 22:47:43: The char-server starting...
+25-01-2019 22:47:43: mmo_char_init: 2 characters read in save/athena.txt.
+25-01-2019 22:47:43: Id for the next created character: 150002.
+25-01-2019 22:47:43: The char-server is ready (Server is listening on the port 6121).
+25-01-2019 22:48:08: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+25-01-2019 22:49:54: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Prueba1.
+25-01-2019 22:53:03: make new char: account: 2000003, slot 0, name: test01, stats: 1/1/1/1/1/1, hair: 1, hair color: 0.
+25-01-2019 22:53:03: Character Selected, Account ID: 2000003, Character Slot: 0, Character Name: test01.
+25-01-2019 22:53:34: make new char: account: 2000004, slot 0, name: test02, stats: 1/1/1/1/1/1, hair: 1, hair color: 0.
+25-01-2019 22:53:34: Character Selected, Account ID: 2000004, Character Slot: 0, Character Name: test02.
+25-01-2019 22:54:01: make new char: account: 2000005, slot 0, name: test03, stats: 1/1/1/1/1/1, hair: 1, hair color: 0.
+25-01-2019 22:54:01: Character Selected, Account ID: 2000005, Character Slot: 0, Character Name: test03.
+25-01-2019 23:08:56: Character Selected, Account ID: 2000005, Character Slot: 0, Character Name: test03.
+
+25-01-2019 23:09:49: The char-server starting...
+25-01-2019 23:09:49: mmo_char_init: 5 characters read in save/athena.txt.
+25-01-2019 23:09:49: Id for the next created character: 150005.
+25-01-2019 23:09:49: The char-server is ready (Server is listening on the port 6121).
+25-01-2019 23:09:54: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+25-01-2019 23:10:21: Character Selected, Account ID: 2000005, Character Slot: 0, Character Name: test03.
+
+23-02-2019 22:16:33: The char-server starting...
+23-02-2019 22:16:33: mmo_char_init: 5 characters read in save/athena.txt.
+23-02-2019 22:16:33: Id for the next created character: 150005.
+23-02-2019 22:16:34: The char-server is ready (Server is listening on the port 6121).
+23-02-2019 22:17:03: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+23-02-2019 22:29:21: Character Selected, Account ID: 2000005, Character Slot: 0, Character Name: test03.
+
+23-02-2019 22:55:00: The char-server starting...
+23-02-2019 22:55:00: mmo_char_init: 5 characters read in save/athena.txt.
+23-02-2019 22:55:00: Id for the next created character: 150005.
+23-02-2019 22:55:00: The char-server is ready (Server is listening on the port 6121).
+23-02-2019 22:55:07: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+23-02-2019 22:55:24: Character Selected, Account ID: 2000005, Character Slot: 0, Character Name: test03.
+
+23-02-2019 23:07:52: The char-server starting...
+23-02-2019 23:07:52: mmo_char_init: 5 characters read in save/athena.txt.
+23-02-2019 23:07:52: Id for the next created character: 150005.
+23-02-2019 23:07:52: The char-server is ready (Server is listening on the port 6121).
+23-02-2019 23:07:58: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+23-02-2019 23:08:09: Character Selected, Account ID: 2000005, Character Slot: 0, Character Name: test03.
+
+23-02-2019 23:11:45: The char-server starting...
+23-02-2019 23:11:45: mmo_char_init: 5 characters read in save/athena.txt.
+23-02-2019 23:11:45: Id for the next created character: 150005.
+23-02-2019 23:11:45: The char-server is ready (Server is listening on the port 6121).
+23-02-2019 23:11:51: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+23-02-2019 23:12:16: Character Selected, Account ID: 2000005, Character Slot: 0, Character Name: test03.
+
+23-02-2019 23:13:43: The char-server starting...
+23-02-2019 23:13:43: mmo_char_init: 5 characters read in save/athena.txt.
+23-02-2019 23:13:43: Id for the next created character: 150005.
+23-02-2019 23:13:43: The char-server is ready (Server is listening on the port 6121).
+23-02-2019 23:13:49: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+23-02-2019 23:13:50: Character Selected, Account ID: 2000005, Character Slot: 0, Character Name: test03.
+
+23-02-2019 23:17:06: The char-server starting...
+23-02-2019 23:17:06: mmo_char_init: 5 characters read in save/athena.txt.
+23-02-2019 23:17:06: Id for the next created character: 150005.
+23-02-2019 23:17:06: The char-server is ready (Server is listening on the port 6121).
+23-02-2019 23:17:11: Character Selected, Account ID: 2000005, Character Slot: 0, Character Name: test03.
+23-02-2019 23:17:12: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+23-02-2019 23:17:14: Character Selected, Account ID: 2000005, Character Slot: 0, Character Name: test03.
+23-02-2019 23:51:55: Character Selected, Account ID: 2000005, Character Slot: 0, Character Name: test03.
+
+27-02-2019 17:54:56: The char-server starting...
+27-02-2019 17:54:56: mmo_char_init: 5 characters read in save/athena.txt.
+27-02-2019 17:54:56: Id for the next created character: 150005.
+27-02-2019 17:54:56: The char-server is ready (Server is listening on the port 6121).
+27-02-2019 17:55:33: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+27-02-2019 17:55:39: Character Selected, Account ID: 2000005, Character Slot: 0, Character Name: test03.
+27-02-2019 17:56:43: Character Selected, Account ID: 2000005, Character Slot: 0, Character Name: test03.
+
+27-02-2019 18:19:04: The char-server starting...
+27-02-2019 18:19:04: mmo_char_init: 5 characters read in save/athena.txt.
+27-02-2019 18:19:05: Id for the next created character: 150005.
+27-02-2019 18:19:05: The char-server is ready (Server is listening on the port 6121).
+27-02-2019 18:19:10: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+27-02-2019 18:19:23: Character Selected, Account ID: 2000005, Character Slot: 0, Character Name: test03.
+
+27-02-2019 18:35:20: The char-server starting...
+27-02-2019 18:35:20: mmo_char_init: 5 characters read in save/athena.txt.
+27-02-2019 18:35:20: Id for the next created character: 150005.
+27-02-2019 18:35:20: The char-server is ready (Server is listening on the port 6121).
+27-02-2019 18:35:27: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+27-02-2019 18:35:44: Character Selected, Account ID: 2000005, Character Slot: 0, Character Name: test03.
+
+27-02-2019 18:58:17: The char-server starting...
+27-02-2019 18:58:18: mmo_char_init: 5 characters read in save/athena.txt.
+27-02-2019 18:58:19: Id for the next created character: 150005.
+27-02-2019 18:58:19: The char-server is ready (Server is listening on the port 6121).
+27-02-2019 18:58:26: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+27-02-2019 18:58:35: Character Selected, Account ID: 2000005, Character Slot: 0, Character Name: test03.
+
+27-02-2019 22:48:42: The char-server starting...
+27-02-2019 22:48:42: mmo_char_init: 5 characters read in save/athena.txt.
+27-02-2019 22:48:42: Id for the next created character: 150005.
+27-02-2019 22:48:42: The char-server is ready (Server is listening on the port 6121).
+27-02-2019 22:48:57: Character Selected, Account ID: 2000005, Character Slot: 0, Character Name: test03.
+27-02-2019 22:49:03: Character Selected, Account ID: 2000005, Character Slot: 0, Character Name: test03.
+27-02-2019 22:49:08: Character Selected, Account ID: 2000005, Character Slot: 0, Character Name: test03.
+27-02-2019 22:49:08: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+27-02-2019 22:49:20: Character Selected, Account ID: 2000005, Character Slot: 0, Character Name: test03.
+
+28-02-2019 17:51:59: The char-server starting...
+28-02-2019 17:51:59: mmo_char_init: 5 characters read in save/athena.txt.
+28-02-2019 17:51:59: Id for the next created character: 150005.
+28-02-2019 17:51:59: The char-server is ready (Server is listening on the port 6121).
+
+28-02-2019 17:53:58: The char-server starting...
+28-02-2019 17:53:58: mmo_char_init: 5 characters read in save/athena.txt.
+28-02-2019 17:53:58: Id for the next created character: 150005.
+28-02-2019 17:53:58: The char-server is ready (Server is listening on the port 6121).
+28-02-2019 17:54:31: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+28-02-2019 17:56:49: make new char: account: 2000005, slot 1, name: Mazapan, stats: 1/1/1/1/1/1, hair: 1, hair color: 0.
+28-02-2019 17:56:51: Character Selected, Account ID: 2000005, Character Slot: 1, Character Name: Mazapan.
+28-02-2019 17:56:57: make new char: account: 2000006, slot 0, name: Zavitad, stats: 1/1/1/1/1/1, hair: 13, hair color: 7.
+28-02-2019 17:56:59: Character Selected, Account ID: 2000006, Character Slot: 0, Character Name: Zavitad.
+28-02-2019 20:24:02: Character Selected, Account ID: 2000006, Character Slot: 0, Character Name: Zavitad.
+28-02-2019 21:09:08: Character Selected, Account ID: 2000005, Character Slot: 1, Character Name: Mazapan.
+
+01-03-2019 11:15:57: The char-server starting...
+01-03-2019 11:15:57: mmo_char_init: 7 characters read in save/athena.txt.
+01-03-2019 11:15:57: Id for the next created character: 150007.
+01-03-2019 11:15:57: The char-server is ready (Server is listening on the port 6121).
+01-03-2019 11:16:38: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+01-03-2019 11:16:48: Character Selected, Account ID: 2000005, Character Slot: 1, Character Name: Mazapan.
+01-03-2019 11:17:41: Character Selected, Account ID: 2000006, Character Slot: 0, Character Name: Zavitad.
+01-03-2019 11:23:02: Character Selected, Account ID: 2000006, Character Slot: 0, Character Name: Zavitad.
+01-03-2019 11:36:44: Character Selected, Account ID: 2000006, Character Slot: 0, Character Name: Zavitad.
+01-03-2019 12:34:12: make new char: account: 2000006, slot 1, name: Archer, stats: 1/1/1/1/1/1, hair: 13, hair color: 3.
+01-03-2019 12:34:14: Character Selected, Account ID: 2000006, Character Slot: 1, Character Name: Archer.
+01-03-2019 12:34:25: make new char: account: 2000005, slot 2, name: Chippos, stats: 1/1/1/1/1/1, hair: 1, hair color: 0.
+01-03-2019 12:34:26: Character Selected, Account ID: 2000005, Character Slot: 2, Character Name: Chippos.
+01-03-2019 13:37:32: make new char: account: 2000006, slot 2, name: Mayonesa, stats: 1/1/1/1/1/1, hair: 13, hair color: 7.
+01-03-2019 13:37:33: Character Selected, Account ID: 2000006, Character Slot: 2, Character Name: Mayonesa.
+01-03-2019 13:37:34: make new char: account: 2000005, slot 3, name: Patata, stats: 1/1/1/1/1/1, hair: 1, hair color: 0.
+01-03-2019 13:37:35: Character Selected, Account ID: 2000005, Character Slot: 3, Character Name: Patata.
+
+01-03-2019 14:06:34: The char-server starting...
+01-03-2019 14:06:34: mmo_char_init: 11 characters read in save/athena.txt.
+01-03-2019 14:06:34: Id for the next created character: 150011.
+01-03-2019 14:06:34: The char-server is ready (Server is listening on the port 6121).
+01-03-2019 14:06:41: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+01-03-2019 14:06:54: Character Selected, Account ID: 2000005, Character Slot: 3, Character Name: Patata.
+01-03-2019 14:07:11: Character Selected, Account ID: 2000006, Character Slot: 2, Character Name: Mayonesa.
+
+01-03-2019 14:10:47: The char-server starting...
+01-03-2019 14:10:47: mmo_char_init: 11 characters read in save/athena.txt.
+01-03-2019 14:10:47: Id for the next created character: 150011.
+01-03-2019 14:10:47: The char-server is ready (Server is listening on the port 6121).
+01-03-2019 14:10:54: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+01-03-2019 14:10:58: Character Selected, Account ID: 2000005, Character Slot: 3, Character Name: Patata.
+01-03-2019 14:11:21: Character Selected, Account ID: 2000006, Character Slot: 2, Character Name: Mayonesa.
+
+01-03-2019 14:17:08: The char-server starting...
+01-03-2019 14:17:08: mmo_char_init: 11 characters read in save/athena.txt.
+01-03-2019 14:17:08: Id for the next created character: 150011.
+01-03-2019 14:17:08: The char-server is ready (Server is listening on the port 6121).
+01-03-2019 14:17:14: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+01-03-2019 14:17:17: Character Selected, Account ID: 2000005, Character Slot: 3, Character Name: Patata.
+01-03-2019 14:17:27: Character Selected, Account ID: 2000006, Character Slot: 2, Character Name: Mayonesa.
+01-03-2019 14:25:57: Character Selected, Account ID: 2000006, Character Slot: 2, Character Name: Mayonesa.
+01-03-2019 14:27:34: make new char: account: 2000005, slot 4, name: Mauz, stats: 1/1/1/1/1/1, hair: 1, hair color: 0.
+01-03-2019 14:27:35: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: Mauz.
+01-03-2019 14:27:38: make new char: account: 2000006, slot 3, name: Agua, stats: 1/1/1/1/1/1, hair: 5, hair color: 0.
+01-03-2019 14:27:39: Character Selected, Account ID: 2000006, Character Slot: 3, Character Name: Agua.
+01-03-2019 14:39:43: Character Selected, Account ID: 2000006, Character Slot: 3, Character Name: Agua.
+01-03-2019 14:39:57: Character Selected, Account ID: 2000006, Character Slot: 3, Character Name: Agua.
+01-03-2019 14:41:10: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: Mauz.
+01-03-2019 14:51:30: Character Selected, Account ID: 2000006, Character Slot: 3, Character Name: Agua.
+01-03-2019 15:07:25: Character Selected, Account ID: 2000006, Character Slot: 0, Character Name: Zavitad.
+01-03-2019 15:09:44: Character Selected, Account ID: 2000006, Character Slot: 3, Character Name: Agua.
+01-03-2019 15:10:01: Character Selected, Account ID: 2000006, Character Slot: 3, Character Name: Agua.
+01-03-2019 15:10:18: Character Selected, Account ID: 2000006, Character Slot: 1, Character Name: Archer.
+
+01-03-2019 15:27:23: The char-server starting...
+01-03-2019 15:27:23: mmo_char_init: 13 characters read in save/athena.txt.
+01-03-2019 15:27:23: Id for the next created character: 150013.
+01-03-2019 15:27:23: The char-server is ready (Server is listening on the port 6121).
+01-03-2019 15:27:29: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+01-03-2019 15:27:32: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: Mauz.
+01-03-2019 15:27:34: Character Selected, Account ID: 2000006, Character Slot: 1, Character Name: Archer.
+01-03-2019 17:14:41: make new char: account: 2000005, slot 5, name: Perry, stats: 1/1/1/1/1/1, hair: 1, hair color: 0.
+01-03-2019 17:14:41: Character Selected, Account ID: 2000005, Character Slot: 5, Character Name: Perry.
+01-03-2019 17:27:26: Character Selected, Account ID: 2000006, Character Slot: 1, Character Name: Archer.
+01-03-2019 17:35:35: make new char: account: 2000006, slot 4, name: Dino, stats: 1/1/1/1/1/1, hair: 13, hair color: 7.
+01-03-2019 17:35:36: Character Selected, Account ID: 2000006, Character Slot: 4, Character Name: Dino.
+01-03-2019 17:36:25: Character Selected, Account ID: 2000005, Character Slot: 1, Character Name: Mazapan.
+01-03-2019 17:42:50: Character Selected, Account ID: 2000006, Character Slot: 4, Character Name: Dino.
+01-03-2019 17:52:10: Character Selected, Account ID: 2000006, Character Slot: 2, Character Name: Mayonesa.
+01-03-2019 17:56:00: Character Selected, Account ID: 2000006, Character Slot: 3, Character Name: Agua.
+01-03-2019 17:58:44: Character Selected, Account ID: 2000006, Character Slot: 0, Character Name: Zavitad.
+01-03-2019 18:36:46: Character Selected, Account ID: 2000006, Character Slot: 0, Character Name: Zavitad.
+01-03-2019 18:36:54: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+01-03-2019 18:37:00: Character Selected, Account ID: 2000005, Character Slot: 1, Character Name: Mazapan.
+01-03-2019 18:37:01: Character Selected, Account ID: 2000006, Character Slot: 1, Character Name: Archer.
+01-03-2019 18:38:27: make new char: account: 2000005, slot 6, name: Alembert, stats: 1/1/1/1/1/1, hair: 1, hair color: 0.
+01-03-2019 18:38:28: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+01-03-2019 18:51:08: Character Selected, Account ID: 2000005, Character Slot: 1, Character Name: Mazapan.
+01-03-2019 18:51:25: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+01-03-2019 18:51:53: Character Selected, Account ID: 2000005, Character Slot: 1, Character Name: Mazapan.
+01-03-2019 18:52:40: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+01-03-2019 18:52:42: Character Selected, Account ID: 2000006, Character Slot: 1, Character Name: Archer.
+01-03-2019 18:53:58: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: Mauz.
+01-03-2019 18:54:25: Character Selected, Account ID: 2000005, Character Slot: 0, Character Name: test03.
+01-03-2019 18:55:22: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+
+02-03-2019 13:33:38: The char-server starting...
+02-03-2019 13:33:38: mmo_char_init: 16 characters read in save/athena.txt.
+02-03-2019 13:33:38: Id for the next created character: 150016.
+02-03-2019 13:33:38: The char-server is ready (Server is listening on the port 6121).
+02-03-2019 13:33:55: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+02-03-2019 13:34:19: Character Selected, Account ID: 2000006, Character Slot: 0, Character Name: Zavitad.
+02-03-2019 13:34:21: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+
+14-03-2019 20:05:06: The char-server starting...
+14-03-2019 20:05:07: mmo_char_init: 16 characters read in save/athena.txt.
+14-03-2019 20:05:07: Id for the next created character: 150016.
+
+14-03-2019 20:05:22: The char-server starting...
+14-03-2019 20:05:22: mmo_char_init: 16 characters read in save/athena.txt.
+14-03-2019 20:05:22: Id for the next created character: 150016.
+
+14-03-2019 20:05:36: The char-server starting...
+14-03-2019 20:05:36: mmo_char_init: 16 characters read in save/athena.txt.
+14-03-2019 20:05:36: Id for the next created character: 150016.
+
+14-03-2019 20:05:50: The char-server starting...
+14-03-2019 20:05:50: mmo_char_init: 16 characters read in save/athena.txt.
+14-03-2019 20:05:50: Id for the next created character: 150016.
+
+14-03-2019 20:06:05: The char-server starting...
+14-03-2019 20:06:05: mmo_char_init: 16 characters read in save/athena.txt.
+14-03-2019 20:06:05: Id for the next created character: 150016.
+14-03-2019 20:06:05: The char-server is ready (Server is listening on the port 6121).
+14-03-2019 20:06:28: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+14-03-2019 20:06:34: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+14-03-2019 20:06:39: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+14-03-2019 20:06:47: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+14-03-2019 20:07:11: Character Selected, Account ID: 2000006, Character Slot: 1, Character Name: Archer.
+14-03-2019 20:08:25: Character Selected, Account ID: 2000006, Character Slot: 0, Character Name: Zavitad.
+
+26-05-2019 18:32:00: The char-server starting...
+26-05-2019 18:32:00: mmo_char_init: 16 characters read in save/athena.txt.
+26-05-2019 18:32:00: Id for the next created character: 150016.
+26-05-2019 18:32:00: The char-server is ready (Server is listening on the port 6121).
+26-05-2019 18:32:24: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+26-05-2019 18:32:55: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+
+09-06-2019 00:52:47: The char-server starting...
+09-06-2019 00:52:47: mmo_char_init: 16 characters read in save/athena.txt.
+09-06-2019 00:52:47: Id for the next created character: 150016.
+09-06-2019 00:52:48: The char-server is ready (Server is listening on the port 6121).
+09-06-2019 00:53:25: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+09-06-2019 00:53:53: make new char: account: 2000002, slot 2, name: Poptars, stats: 1/1/1/1/1/1, hair: 1, hair color: 0.
+09-06-2019 00:53:54: Character Selected, Account ID: 2000002, Character Slot: 2, Character Name: Poptars.
+09-06-2019 00:54:51: make new char: account: 2000005, slot 7, name: Kawaii, stats: 1/1/1/1/1/1, hair: 1, hair color: 0.
+09-06-2019 00:54:52: Character Selected, Account ID: 2000005, Character Slot: 7, Character Name: Kawaii.
+
+11-06-2019 17:55:44: The char-server starting...
+11-06-2019 17:55:44: mmo_char_init: 18 characters read in save/athena.txt.
+11-06-2019 17:55:44: Id for the next created character: 150018.
+11-06-2019 17:55:45: The char-server is ready (Server is listening on the port 6121).
+11-06-2019 17:56:15: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+11-06-2019 17:56:37: Character Selected, Account ID: 2000005, Character Slot: 7, Character Name: Kawaii.
+
+11-06-2019 18:10:00: The char-server starting...
+11-06-2019 18:10:00: mmo_char_init: 18 characters read in save/athena.txt.
+11-06-2019 18:10:00: Id for the next created character: 150018.
+11-06-2019 18:10:00: The char-server is ready (Server is listening on the port 6121).
+11-06-2019 18:10:06: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+11-06-2019 18:10:08: Character Selected, Account ID: 2000005, Character Slot: 7, Character Name: Kawaii.
+
+11-06-2019 18:12:33: The char-server starting...
+11-06-2019 18:12:33: mmo_char_init: 18 characters read in save/athena.txt.
+11-06-2019 18:12:33: Id for the next created character: 150018.
+11-06-2019 18:12:33: The char-server is ready (Server is listening on the port 6121).
+11-06-2019 18:12:38: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+11-06-2019 18:12:41: Character Selected, Account ID: 2000005, Character Slot: 7, Character Name: Kawaii.
+
+11-06-2019 18:18:15: The char-server starting...
+11-06-2019 18:18:15: mmo_char_init: 18 characters read in save/athena.txt.
+11-06-2019 18:18:15: Id for the next created character: 150018.
+11-06-2019 18:18:15: The char-server is ready (Server is listening on the port 6121).
+11-06-2019 18:18:20: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+11-06-2019 18:18:21: Character Selected, Account ID: 2000005, Character Slot: 7, Character Name: Kawaii.
+
+11-06-2019 18:19:10: The char-server starting...
+11-06-2019 18:19:10: mmo_char_init: 18 characters read in save/athena.txt.
+11-06-2019 18:19:11: Id for the next created character: 150018.
+11-06-2019 18:19:11: The char-server is ready (Server is listening on the port 6121).
+11-06-2019 18:19:16: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+11-06-2019 18:19:20: Character Selected, Account ID: 2000005, Character Slot: 7, Character Name: Kawaii.
+
+11-06-2019 18:27:38: The char-server starting...
+11-06-2019 18:27:38: mmo_char_init: 18 characters read in save/athena.txt.
+11-06-2019 18:27:38: Id for the next created character: 150018.
+11-06-2019 18:27:38: The char-server is ready (Server is listening on the port 6121).
+11-06-2019 18:27:44: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+11-06-2019 18:27:46: Character Selected, Account ID: 2000005, Character Slot: 7, Character Name: Kawaii.
+
+11-06-2019 18:29:19: The char-server starting...
+11-06-2019 18:29:19: mmo_char_init: 18 characters read in save/athena.txt.
+11-06-2019 18:29:19: Id for the next created character: 150018.
+11-06-2019 18:29:19: The char-server is ready (Server is listening on the port 6121).
+11-06-2019 18:29:25: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+11-06-2019 18:29:26: Character Selected, Account ID: 2000005, Character Slot: 7, Character Name: Kawaii.
+
+16-06-2019 20:11:45: The char-server starting...
+16-06-2019 20:11:46: mmo_char_init: 18 characters read in save/athena.txt.
+16-06-2019 20:11:46: Id for the next created character: 150018.
+16-06-2019 20:11:46: The char-server is ready (Server is listening on the port 6121).
+16-06-2019 20:12:16: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+16-06-2019 20:12:21: Character Selected, Account ID: 2000005, Character Slot: 5, Character Name: Perry.
+16-06-2019 20:15:40: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+16-06-2019 20:32:09: make new char: account: 2000007, slot 6, name: Paratest, stats: 1/1/1/1/1/1, hair: 1, hair color: 0.
+16-06-2019 20:32:09: Character Selected, Account ID: 2000007, Character Slot: 6, Character Name: Paratest.
+
+17-06-2019 19:34:23: The char-server starting...
+17-06-2019 19:34:24: mmo_char_init: 19 characters read in save/athena.txt.
+17-06-2019 19:34:24: Id for the next created character: 150019.
+17-06-2019 19:34:24: The char-server is ready (Server is listening on the port 6121).
+17-06-2019 19:34:50: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+17-06-2019 19:35:07: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+17-06-2019 19:36:43: make new char: account: 2000005, slot 8, name: Pops, stats: 1/1/1/1/1/1, hair: 1, hair color: 0.
+17-06-2019 19:36:44: Character Selected, Account ID: 2000005, Character Slot: 8, Character Name: Pops.
+
+17-06-2019 20:40:30: The char-server starting...
+17-06-2019 20:40:30: mmo_char_init: 20 characters read in save/athena.txt.
+17-06-2019 20:40:30: Id for the next created character: 150020.
+17-06-2019 20:40:30: The char-server is ready (Server is listening on the port 6121).
+17-06-2019 20:40:38: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+17-06-2019 20:40:47: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+17-06-2019 20:41:01: Character Selected, Account ID: 2000005, Character Slot: 7, Character Name: Kawaii.
+17-06-2019 20:41:20: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+
+17-06-2019 20:47:49: The char-server starting...
+17-06-2019 20:47:49: mmo_char_init: 20 characters read in save/athena.txt.
+17-06-2019 20:47:49: Id for the next created character: 150020.
+17-06-2019 20:47:49: The char-server is ready (Server is listening on the port 6121).
+17-06-2019 20:48:14: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+
+18-06-2019 19:22:09: The char-server starting...
+18-06-2019 19:22:09: mmo_char_init: 20 characters read in save/athena.txt.
+18-06-2019 19:22:09: Id for the next created character: 150020.
+18-06-2019 19:22:09: The char-server is ready (Server is listening on the port 6121).
+18-06-2019 19:22:28: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+18-06-2019 19:22:40: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+
+20-06-2019 21:41:12: The char-server starting...
+20-06-2019 21:41:12: mmo_char_init: 20 characters read in save/athena.txt.
+20-06-2019 21:41:12: Id for the next created character: 150020.
+20-06-2019 21:41:12: The char-server is ready (Server is listening on the port 6121).
+20-06-2019 21:41:28: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+20-06-2019 21:41:31: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+20-06-2019 21:41:42: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+20-06-2019 21:41:44: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+20-06-2019 21:42:25: Character Selected, Account ID: 2000007, Character Slot: 6, Character Name: Paratest.
+
+21-06-2019 19:35:29: The char-server starting...
+21-06-2019 19:35:30: mmo_char_init: 20 characters read in save/athena.txt.
+21-06-2019 19:35:30: Id for the next created character: 150020.
+21-06-2019 19:35:30: The char-server is ready (Server is listening on the port 6121).
+21-06-2019 19:35:58: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+21-06-2019 19:36:02: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+21-06-2019 19:49:51: Character Selected, Account ID: 2000007, Character Slot: 6, Character Name: Paratest.
+21-06-2019 21:20:59: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+
+24-06-2019 22:23:26: The char-server starting...
+24-06-2019 22:23:26: mmo_char_init: 20 characters read in save/athena.txt.
+24-06-2019 22:23:26: Id for the next created character: 150020.
+24-06-2019 22:23:27: The char-server is ready (Server is listening on the port 6121).
+24-06-2019 22:23:50: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+24-06-2019 22:23:53: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+24-06-2019 22:23:55: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+24-06-2019 22:24:02: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+24-06-2019 22:24:18: Character Selected, Account ID: 2000005, Character Slot: 7, Character Name: Kawaii.
+
+25-06-2019 21:39:50: The char-server starting...
+25-06-2019 21:39:50: mmo_char_init: 20 characters read in save/athena.txt.
+25-06-2019 21:39:50: Id for the next created character: 150020.
+25-06-2019 21:39:50: The char-server is ready (Server is listening on the port 6121).
+25-06-2019 21:40:20: Character Selected, Account ID: 2000005, Character Slot: 1, Character Name: Mazapan.
+25-06-2019 21:40:21: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+25-06-2019 21:40:27: Character Selected, Account ID: 2000005, Character Slot: 1, Character Name: Mazapan.
+25-06-2019 21:43:42: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: Mauz.
+25-06-2019 21:45:04: Character Selected, Account ID: 2000005, Character Slot: 3, Character Name: Patata.
+25-06-2019 21:45:29: Character Selected, Account ID: 2000005, Character Slot: 5, Character Name: Perry.
+25-06-2019 21:46:04: Character Selected, Account ID: 2000005, Character Slot: 2, Character Name: Chippos.
+25-06-2019 21:47:34: make new char: account: 2000007, slot 7, name: Snow, stats: 1/1/1/1/1/1, hair: 1, hair color: 0.
+25-06-2019 21:47:35: Character Selected, Account ID: 2000007, Character Slot: 7, Character Name: Snow.
+
+25-06-2019 22:46:16: The char-server starting...
+25-06-2019 22:46:17: mmo_char_init: 21 characters read in save/athena.txt.
+25-06-2019 22:46:17: Id for the next created character: 150021.
+25-06-2019 22:46:17: The char-server is ready (Server is listening on the port 6121).
+25-06-2019 22:46:22: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+25-06-2019 22:46:44: Character Selected, Account ID: 2000007, Character Slot: 7, Character Name: Snow.
+
+27-06-2019 21:44:36: The char-server starting...
+27-06-2019 21:44:36: mmo_char_init: 21 characters read in save/athena.txt.
+27-06-2019 21:44:36: Id for the next created character: 150021.
+27-06-2019 21:44:36: The char-server is ready (Server is listening on the port 6121).
+27-06-2019 21:44:53: Character Selected, Account ID: 2000007, Character Slot: 7, Character Name: Snow.
+27-06-2019 21:44:53: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+27-06-2019 21:44:57: Character Selected, Account ID: 2000007, Character Slot: 7, Character Name: Snow.
+
+27-06-2019 21:48:57: The char-server starting...
+27-06-2019 21:48:57: mmo_char_init: 21 characters read in save/athena.txt.
+27-06-2019 21:48:57: Id for the next created character: 150021.
+27-06-2019 21:48:57: The char-server is ready (Server is listening on the port 6121).
+27-06-2019 21:49:03: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+27-06-2019 21:49:15: Character Selected, Account ID: 2000007, Character Slot: 7, Character Name: Snow.
+27-06-2019 22:02:46: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+27-06-2019 22:16:38: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+27-06-2019 22:27:44: ----End of char-server (normal end with closing of all files).
+
+28-06-2019 15:42:45: The char-server starting...
+28-06-2019 15:42:45: mmo_char_init: 21 characters read in save/athena.txt.
+28-06-2019 15:42:45: Id for the next created character: 150021.
+28-06-2019 15:42:45: The char-server is ready (Server is listening on the port 6121).
+28-06-2019 15:43:02: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+28-06-2019 15:43:08: Character Selected, Account ID: 2000007, Character Slot: 7, Character Name: Snow.
+
+28-06-2019 16:09:18: The char-server starting...
+28-06-2019 16:09:18: mmo_char_init: 21 characters read in save/athena.txt.
+28-06-2019 16:09:18: Id for the next created character: 150021.
+28-06-2019 16:09:18: The char-server is ready (Server is listening on the port 6121).
+28-06-2019 16:09:23: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+28-06-2019 16:10:37: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+
+28-06-2019 19:34:53: The char-server starting...
+28-06-2019 19:34:53: mmo_char_init: 21 characters read in save/athena.txt.
+28-06-2019 19:34:53: Id for the next created character: 150021.
+28-06-2019 19:34:53: The char-server is ready (Server is listening on the port 6121).
+28-06-2019 19:35:13: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+28-06-2019 19:35:20: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: Mauz.
+28-06-2019 21:05:14: Map-Server 0 connected: 804 maps, from IP 169.254.108.72 port 5121. Map-server 0 loading complete.
+
+01-07-2019 17:18:47: The char-server starting...
+01-07-2019 17:18:48: mmo_char_init: 21 characters read in save/athena.txt.
+01-07-2019 17:18:48: Id for the next created character: 150021.
+
+01-07-2019 17:19:02: The char-server starting...
+01-07-2019 17:19:02: mmo_char_init: 21 characters read in save/athena.txt.
+01-07-2019 17:19:02: Id for the next created character: 150021.
+
+01-07-2019 17:19:17: The char-server starting...
+01-07-2019 17:19:17: mmo_char_init: 21 characters read in save/athena.txt.
+01-07-2019 17:19:17: Id for the next created character: 150021.
+
+01-07-2019 17:19:31: The char-server starting...
+01-07-2019 17:19:31: mmo_char_init: 21 characters read in save/athena.txt.
+01-07-2019 17:19:31: Id for the next created character: 150021.
+
+01-07-2019 17:19:47: The char-server starting...
+01-07-2019 17:19:47: mmo_char_init: 21 characters read in save/athena.txt.
+01-07-2019 17:19:47: Id for the next created character: 150021.
+
+01-07-2019 17:20:17: The char-server starting...
+01-07-2019 17:20:18: mmo_char_init: 21 characters read in save/athena.txt.
+01-07-2019 17:20:18: Id for the next created character: 150021.
+
+01-07-2019 17:22:19: The char-server starting...
+01-07-2019 17:22:19: mmo_char_init: 21 characters read in save/athena.txt.
+01-07-2019 17:22:19: Id for the next created character: 150021.
+01-07-2019 17:22:19: The char-server is ready (Server is listening on the port 6121).
+
+01-07-2019 17:23:27: The char-server starting...
+01-07-2019 17:23:27: mmo_char_init: 21 characters read in save/athena.txt.
+01-07-2019 17:23:27: Id for the next created character: 150021.
+01-07-2019 17:23:27: The char-server is ready (Server is listening on the port 6121).
+01-07-2019 17:23:49: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+
+24-08-2019 21:40:51: The char-server starting...
+24-08-2019 21:40:51: mmo_char_init: 21 characters read in save/athena.txt.
+24-08-2019 21:40:51: Id for the next created character: 150021.
+24-08-2019 21:40:51: The char-server is ready (Server is listening on the port 6121).
+24-08-2019 21:41:19: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+
+23-10-2019 18:56:06: The char-server starting...
+23-10-2019 18:56:06: mmo_char_init: 21 characters read in save/athena.txt.
+23-10-2019 18:56:06: Id for the next created character: 150021.
+23-10-2019 18:56:06: The char-server is ready (Server is listening on the port 6121).
+23-10-2019 18:56:27: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+23-10-2019 18:57:30: Character Selected, Account ID: 2000005, Character Slot: 1, Character Name: Mazapan.
+23-10-2019 19:09:09: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+23-10-2019 20:20:14: Character Selected, Account ID: 2000005, Character Slot: 1, Character Name: Mazapan.
+23-10-2019 20:20:28: ----End of char-server (normal end with closing of all files).
+
+10-11-2019 18:53:09: The char-server starting...
+10-11-2019 18:53:10: mmo_char_init: 20 characters read in save/athena.txt.
+10-11-2019 18:53:10: Id for the next created character: 150021.
+10-11-2019 18:53:10: The char-server is ready (Server is listening on the port 6121).
+10-11-2019 18:53:31: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+10-11-2019 18:54:49: Character Selected, Account ID: 2000005, Character Slot: 1, Character Name: Mazapan.
+
+10-11-2019 19:03:54: The char-server starting...
+10-11-2019 19:03:54: mmo_char_init: 20 characters read in save/athena.txt.
+10-11-2019 19:03:54: Id for the next created character: 150021.
+10-11-2019 19:03:54: The char-server is ready (Server is listening on the port 6121).
+10-11-2019 19:03:59: Map-Server 0 connected: 804 maps, from IP 169.254.82.200 port 5121. Map-server 0 loading complete.
+10-11-2019 19:05:59: make new char: account: 2000005, slot 2, name: Cochiloco, stats: 1/1/1/1/1/1, hair: 1, hair color: 0.
+10-11-2019 19:06:00: Character Selected, Account ID: 2000005, Character Slot: 2, Character Name: Cochiloco.
+10-11-2019 19:07:55: make new char: account: 2000006, slot 5, name: maus, stats: 1/1/1/1/1/1, hair: 13, hair color: 0.
+10-11-2019 19:07:57: Character Selected, Account ID: 2000006, Character Slot: 5, Character Name: maus.
+10-11-2019 19:11:14: Character Selected, Account ID: 2000006, Character Slot: 5, Character Name: maus.
+10-11-2019 19:15:26: Character Selected, Account ID: 2000006, Character Slot: 5, Character Name: maus.
+10-11-2019 19:36:21: Character Selected, Account ID: 2000005, Character Slot: 2, Character Name: Cochiloco.
+10-11-2019 19:36:42: Character Selected, Account ID: 2000005, Character Slot: 2, Character Name: Cochiloco.
+10-11-2019 20:07:57: Character Selected, Account ID: 2000005, Character Slot: 0, Character Name: test03.
+10-11-2019 20:14:27: Character Selected, Account ID: 2000006, Character Slot: 0, Character Name: Zavitad.
+10-11-2019 20:24:52: Character Selected, Account ID: 2000006, Character Slot: 2, Character Name: Mayonesa.
+10-11-2019 20:27:19: Character Selected, Account ID: 2000006, Character Slot: 1, Character Name: Archer.
+10-11-2019 20:29:23: Character Selected, Account ID: 2000005, Character Slot: 5, Character Name: Perry.
+10-11-2019 20:29:24: Character Selected, Account ID: 2000006, Character Slot: 3, Character Name: Agua.
+10-11-2019 20:30:16: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+10-11-2019 20:32:29: Character Selected, Account ID: 2000006, Character Slot: 4, Character Name: Dino.
+10-11-2019 20:33:40: Character Selected, Account ID: 2000006, Character Slot: 5, Character Name: maus.
+10-11-2019 20:34:18: Character Selected, Account ID: 2000006, Character Slot: 0, Character Name: Zavitad.
+
+10-12-2019 03:04:37: The char-server starting...
+10-12-2019 03:04:37: mmo_char_init: 22 characters read in save/athena.txt.
+10-12-2019 03:04:37: Id for the next created character: 150023.
+10-12-2019 03:04:38: The char-server is ready (Server is listening on the port 6121).
+10-12-2019 03:05:04: Map-Server 0 connected: 804 maps, from IP 169.254.82.200 port 5121. Map-server 0 loading complete.
+10-12-2019 03:06:22: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+
+08-04-2020 04:11:34: The char-server starting...
+08-04-2020 04:11:34: mmo_char_init: 22 characters read in save/athena.txt.
+08-04-2020 04:11:34: Id for the next created character: 150023.
+
+08-04-2020 04:13:29: The char-server starting...
+08-04-2020 04:13:29: mmo_char_init: 22 characters read in save/athena.txt.
+08-04-2020 04:13:29: Id for the next created character: 150023.
+08-04-2020 04:13:29: The char-server is ready (Server is listening on the port 6121).
+08-04-2020 04:13:52: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+08-04-2020 04:15:43: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+
+01-08-2020 15:38:44: The char-server starting...
+01-08-2020 15:38:44: mmo_char_init: 22 characters read in save/athena.txt.
+01-08-2020 15:38:44: Id for the next created character: 150023.
+01-08-2020 15:38:44: The char-server is ready (Server is listening on the port 6121).
+01-08-2020 15:38:50: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+
+08-08-2020 01:41:40: The char-server starting...
+08-08-2020 01:41:40: mmo_char_init: 22 characters read in save/athena.txt.
+08-08-2020 01:41:40: Id for the next created character: 150023.
+08-08-2020 01:41:40: The char-server is ready (Server is listening on the port 6121).
+08-08-2020 01:41:46: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+08-08-2020 01:42:30: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Prueba1.
+08-08-2020 01:43:10: Character Selected, Account ID: 2000005, Character Slot: 1, Character Name: Mazapan.
+08-08-2020 01:45:54: Character Selected, Account ID: 2000005, Character Slot: 7, Character Name: Kawaii.
+08-08-2020 01:46:20: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+
+06-09-2020 15:43:08: The char-server starting...
+06-09-2020 15:43:08: mmo_char_init: 22 characters read in save/athena.txt.
+06-09-2020 15:43:08: Id for the next created character: 150023.
+06-09-2020 15:43:08: The char-server is ready (Server is listening on the port 6121).
+06-09-2020 15:43:14: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+06-09-2020 15:43:31: Character Selected, Account ID: 2000005, Character Slot: 3, Character Name: Patata.
+
+12-01-2021 09:58:29: The char-server starting...
+12-01-2021 09:58:29: mmo_char_init: 22 characters read in save/athena.txt.
+12-01-2021 09:58:29: Id for the next created character: 150023.
+12-01-2021 09:58:30: The char-server is ready (Server is listening on the port 6121).
+12-01-2021 09:58:35: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+12-01-2021 10:00:36: Character Selected, Account ID: 2000005, Character Slot: 3, Character Name: Patata.
+12-01-2021 10:01:02: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+
+18-01-2021 12:10:02: The char-server starting...
+18-01-2021 12:10:03: mmo_char_init: 22 characters read in save/athena.txt.
+18-01-2021 12:10:03: Id for the next created character: 150023.
+18-01-2021 12:10:03: The char-server is ready (Server is listening on the port 6121).
+18-01-2021 12:10:14: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+18-01-2021 12:14:45: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: Alembert.
+
+18-01-2021 15:14:05: The char-server starting...
+18-01-2021 15:14:05: mmo_char_init: 22 characters read in save/athena.txt.
+18-01-2021 15:14:05: Id for the next created character: 150023.
+18-01-2021 15:14:05: The char-server is ready (Server is listening on the port 6121).
+18-01-2021 15:14:25: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+18-01-2021 15:16:10: make new char: account: 2000008, slot 3, name: Azael, stats: 1/1/1/1/1/1, hair: 1, hair color: 0.
+18-01-2021 15:16:11: Character Selected, Account ID: 2000008, Character Slot: 3, Character Name: Azael.
+18-01-2021 15:17:05: Character Selected, Account ID: 2000008, Character Slot: 3, Character Name: Azael.
+18-01-2021 15:21:50: Character Selected, Account ID: 2000008, Character Slot: 3, Character Name: Azael.
+
+18-01-2021 16:05:15: The char-server starting...
+18-01-2021 16:05:15: mmo_char_init: 23 characters read in save/athena.txt.
+18-01-2021 16:05:15: Id for the next created character: 150024.
+18-01-2021 16:05:15: The char-server is ready (Server is listening on the port 6121).
+18-01-2021 16:05:33: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+
+18-01-2021 16:10:26: The char-server starting...
+18-01-2021 16:10:26: mmo_char_init: 23 characters read in save/athena.txt.
+18-01-2021 16:10:26: Id for the next created character: 150024.
+
+18-01-2021 16:10:41: The char-server starting...
+18-01-2021 16:10:41: mmo_char_init: 23 characters read in save/athena.txt.
+18-01-2021 16:10:41: Id for the next created character: 150024.
+
+18-01-2021 16:10:55: The char-server starting...
+18-01-2021 16:10:55: mmo_char_init: 23 characters read in save/athena.txt.
+18-01-2021 16:10:55: Id for the next created character: 150024.
+
+18-01-2021 16:11:09: The char-server starting...
+18-01-2021 16:11:09: mmo_char_init: 23 characters read in save/athena.txt.
+18-01-2021 16:11:09: Id for the next created character: 150024.
+
+18-01-2021 16:11:24: The char-server starting...
+18-01-2021 16:11:24: mmo_char_init: 23 characters read in save/athena.txt.
+18-01-2021 16:11:24: Id for the next created character: 150024.
+
+18-01-2021 16:11:38: The char-server starting...
+18-01-2021 16:11:38: mmo_char_init: 23 characters read in save/athena.txt.
+18-01-2021 16:11:38: Id for the next created character: 150024.
+
+18-01-2021 16:11:53: The char-server starting...
+18-01-2021 16:11:53: mmo_char_init: 23 characters read in save/athena.txt.
+18-01-2021 16:11:53: Id for the next created character: 150024.
+
+18-01-2021 16:12:08: The char-server starting...
+18-01-2021 16:12:08: mmo_char_init: 23 characters read in save/athena.txt.
+18-01-2021 16:12:08: Id for the next created character: 150024.
+
+18-01-2021 16:13:01: The char-server starting...
+18-01-2021 16:13:01: mmo_char_init: 23 characters read in save/athena.txt.
+18-01-2021 16:13:01: Id for the next created character: 150024.
+18-01-2021 16:13:18: Character Selected, Account ID: 2000008, Character Slot: 3, Character Name: Azael.
+
+18-01-2021 16:14:51: The char-server starting...
+18-01-2021 16:14:51: mmo_char_init: 23 characters read in save/athena.txt.
+18-01-2021 16:14:51: Id for the next created character: 150024.
+18-01-2021 16:14:51: The char-server is ready (Server is listening on the port 6121).
+18-01-2021 16:14:54: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+18-01-2021 16:15:36: Character Selected, Account ID: 2000008, Character Slot: 3, Character Name: Azael.
+18-01-2021 16:26:37: Character Selected, Account ID: 2000008, Character Slot: 3, Character Name: Azael.
+
+19-01-2021 21:19:15: The char-server starting...
+19-01-2021 21:19:15: mmo_char_init: 23 characters read in save/athena.txt.
+19-01-2021 21:19:15: Id for the next created character: 150024.
+19-01-2021 21:19:15: The char-server is ready (Server is listening on the port 6121).
+19-01-2021 21:19:31: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+19-01-2021 21:21:47: make new char: account: 2000009, slot 0, name: Prueba, stats: 1/1/1/1/1/1, hair: 7, hair color: 7.
+19-01-2021 21:21:49: Character Selected, Account ID: 2000009, Character Slot: 0, Character Name: Prueba.
+
+19-01-2021 21:24:02: The char-server starting...
+19-01-2021 21:24:02: mmo_char_init: 24 characters read in save/athena.txt.
+19-01-2021 21:24:02: Id for the next created character: 150025.
+19-01-2021 21:24:02: The char-server is ready (Server is listening on the port 6121).
+19-01-2021 21:24:06: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+19-01-2021 21:25:33: Character Selected, Account ID: 2000009, Character Slot: 0, Character Name: Prueba.
+
+19-01-2021 21:44:12: The char-server starting...
+19-01-2021 21:44:12: mmo_char_init: 24 characters read in save/athena.txt.
+19-01-2021 21:44:12: Id for the next created character: 150025.
+19-01-2021 21:44:12: The char-server is ready (Server is listening on the port 6121).
+19-01-2021 21:44:16: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+19-01-2021 21:44:40: Character Selected, Account ID: 2000009, Character Slot: 0, Character Name: Prueba.
+
+19-01-2021 21:53:55: The char-server starting...
+19-01-2021 21:53:55: mmo_char_init: 24 characters read in save/athena.txt.
+19-01-2021 21:53:55: Id for the next created character: 150025.
+19-01-2021 21:53:55: The char-server is ready (Server is listening on the port 6121).
+19-01-2021 21:54:00: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+19-01-2021 21:54:25: Character Selected, Account ID: 2000009, Character Slot: 0, Character Name: Prueba.
+19-01-2021 22:12:58: Character Selected, Account ID: 2000009, Character Slot: 0, Character Name: Prueba.
+
+19-01-2021 22:34:55: The char-server starting...
+19-01-2021 22:34:55: mmo_char_init: 24 characters read in save/athena.txt.
+19-01-2021 22:34:55: Id for the next created character: 150025.
+19-01-2021 22:34:55: The char-server is ready (Server is listening on the port 6121).
+19-01-2021 22:34:59: Map-Server 0 connected: 804 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+19-01-2021 22:35:28: Character Selected, Account ID: 2000009, Character Slot: 0, Character Name: Prueba.

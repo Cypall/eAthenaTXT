@@ -1,0 +1,5 @@
+NumeroID#Nombre#
+
+ejemplo:
+
+20192#Black_Dragon_Wings#
